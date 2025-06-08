@@ -5,9 +5,31 @@ import { Edge } from "edge.js";
 const edge = Edge.create();
 edge.mount(new URL("./templates", import.meta.url));
 
+class Helper {
+  static async jsonLoad(file, def = {}) {
+    const content = await fs.promises.readFile(file, "utf-8");
+    try {
+      return JSON.parse(content);
+    } catch (e) {
+      console.error(`Error parsing JSON from file ${file}:`, e);
+      return def;
+    }
+  }
+
+  static async templateSave(name, data) {
+    const rendered = await edge.render(name, data);
+
+    fs.promises.writeFile(
+      path.join(process.cwd(), "pages", `${name}.html`),
+      rendered,
+      "utf-8"
+    );
+  }
+}
+
 const jsonStringify = (data) => {
-  return JSON.stringify(data);
-  // return JSON.stringify(data, null, 2);
+  // return JSON.stringify(data);
+  return JSON.stringify(data, null, 2);
 };
 
 const generateTimelines = async () => {
@@ -121,6 +143,56 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
   );
 };
 
+const generateSteamUsers = async (timelines) => {
+  const users = Object.fromEntries(
+    (await Helper.jsonLoad("./assets/users.json", [])).map((user) => {
+      return [user.name, user];
+    })
+  );
+
+  timelines.map((timeline) => {
+    timeline.content.entries.map((entry) => {
+      if (!entry.title) return;
+      if (entry.title == "You killed yourself") return;
+      if (entry.description == "with the world") return;
+
+      let player = null;
+
+      if (entry.title.startsWith("You killed")) {
+        player = entry.title.replace("You killed ", "");
+      } else if (entry.title.startsWith("You were killed by ")) {
+        player = entry.title.replace("You were killed by ", "");
+      }
+
+      if (!player) return;
+
+      const user = users[player] || {};
+      user.name = player;
+      user.steamId = user.steamId || null;
+
+      user.steamProfile = user.steamId
+        ? `https://steamcommunity.com/profiles/${user.steamId}`
+        : null;
+
+      user.steamSearch = `https://steamcommunity.com/search/users/#text=${encodeURIComponent(
+        user.name
+      )}`;
+
+      users[user.name] = user;
+    });
+  });
+
+  const data = Object.values(users);
+
+  fs.promises.writeFile(
+    path.join(process.cwd(), "assets", "users.json"),
+    jsonStringify(data),
+    "utf-8"
+  );
+
+  Helper.templateSave("users", { data });
+};
+
 const renderIndex = async (timelines) => {
   const rendered = await edge.render("index", {});
   fs.promises.writeFile(
@@ -132,4 +204,5 @@ const renderIndex = async (timelines) => {
 
 const timelines = await generateTimelines();
 await reportDeathsVsKillsPlayers(timelines);
+await generateSteamUsers(timelines);
 await renderIndex(timelines);

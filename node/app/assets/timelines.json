@@ -1,1 +1,2351 @@
-[{"id":"timeline_73020250608_175910","content":{"daterecorded":"1749405550","starttime":"0","entries":[{"id":"25","time":"20250","type":"gamemode","mode":3},{"id":"26","time":"24744","type":"gamemode","mode":3},{"id":"27","time":"50006","type":"gamemode","mode":4},{"id":"28","time":"50193","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"29","time":"50338","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"30","time":"52441","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"31","time":"56246","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"32","time":"56254","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"33","time":"56254","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"34","time":"56254","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"35","time":"57509","type":"gamemode","mode":1},{"id":"36","time":"63702","type":"event","title":"You were killed by R","description":"with the MAC-10","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"37","time":"82922","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the P90","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"38","time":"94918","type":"event","title":"You were killed by MeLeKa","description":"with the MAC-10","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"39","time":"99369","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the MAC-10","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"40","time":"103917","type":"event","title":"You were killed by R","description":"with the SSG 08","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"41","time":"103093","type":"event","title":"You killed MeLeKa","description":"with the SCAR-20","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"42","time":"108179","type":"event","title":"You killed MOLESLEY ⛧","description":"with the SCAR-20","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"43","time":"122381","type":"event","title":"You killed Lieutenant","description":"with the AWP","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"44","time":"128254","type":"event","title":"You were killed by Farlow","description":"with the M4A4","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"45","time":"138815","type":"event","title":"You were killed by Farlow","description":"with the M4A1-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"46","time":"138453","type":"event","title":"You killed Lieutenant","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"47","time":"166110","type":"event","title":"You were killed by R","description":"with the Five-SeveN","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"48","time":"142998","type":"event","title":"Multi kill","description":"You killed MOLESLEY ⛧, Lieutenant, Farlow, MOLESLEY ⛧, and Lieutenant","icon":"cs2_multi_kill","priority":1000,"duration":"20796","possible_clip":3},{"id":"49","time":"192011","type":"event","title":"You were killed by MeLeKa","description":"with the Zeus x27","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"50","time":"189935","type":"event","title":"You killed Lieutenant","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"51","time":"196124","type":"event","title":"You killed MOLESLEY ⛧","description":"with the AUG","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"52","time":"209963","type":"event","title":"You were killed by Lieutenant","description":"with the SCAR-20","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"53","time":"216055","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the Zeus x27","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"54","time":"229302","type":"event","title":"You were killed by Farlow","description":"with the P90","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"55","time":"233065","type":"event","title":"You killed R","description":"with the AUG","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"56","time":"273008","type":"gamemode","mode":4},{"id":"57","time":"282178","type":"gamemode","mode":1},{"id":"58","time":"294102","type":"event","title":"Double kill","description":"You killed Getaway and Hugg","icon":"cs2_double_kill","priority":1000,"duration":"5859","possible_clip":3},{"id":"59","time":"303832","type":"phase","duration":"332696","tags":[{"name":"Classic","icon":"cs2_logo","group":"Mode","priority":500},{"name":"Baggage","icon":"map_icon_ar_baggage","group":"Map","priority":500}]},{"id":"60","time":"312522","type":"event","title":"You were killed by Vingador SJRP ;x","description":"with the G3SG1","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"61","time":"324776","type":"event","title":"You killed Vingador SJRP ;x","description":"with the G3SG1","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"62","time":"333089","type":"event","title":"You were killed by MeLeKa","description":"with the G3SG1","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"63","time":"339211","type":"event","title":"You were killed by MeLeKa","description":"with the G3SG1","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"64","time":"343304","type":"event","title":"You killed RodrigoMPB","description":"with the G3SG1","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"65","time":"354084","type":"event","title":"You were killed by Vingador SJRP ;x","description":"with the AWP","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"66","time":"360994","type":"event","title":"You were killed by Vingador SJRP ;x","description":"with the AWP","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"67","time":"379141","type":"event","title":"You were killed by RodrigoMPB","description":"with the M4A4","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"68","time":"392155","type":"event","title":"You were killed by MeLeKa","description":"with the AWP","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"69","time":"421520","type":"event","title":"You were killed by MeLeKa","description":"with the Zeus x27","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"70","time":"433839","type":"event","title":"You were killed by Vingador SJRP ;x","description":"with the M4A1-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"71","time":"431430","type":"event","title":"You killed MeLeKa","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"72","time":"449922","type":"event","title":"You were killed by RodrigoMPB","description":"with the Galil AR","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"73","time":"447055","type":"event","title":"You killed R","description":"with the AWP","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"74","time":"459416","type":"event","title":"You killed RodrigoMPB","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"75","time":"464703","type":"event","title":"You killed MOLESLEY ⛧","description":"with the M4A4","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"76","time":"479738","type":"event","title":"You were killed by Vingador SJRP ;x","description":"with the Zeus x27","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"77","time":"487617","type":"event","title":"You were killed by MeLeKa","description":"with the M4A4","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"78","time":"501219","type":"event","title":"You killed RodrigoMPB","description":"with the M4A4","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"79","time":"508218","type":"event","title":"You were killed by MeLeKa","description":"with the M4A4","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"80","time":"506867","type":"event","title":"You killed R","description":"with the M4A4","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"81","time":"516156","type":"event","title":"You were killed by R","description":"with the AUG","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"82","time":"524546","type":"event","title":"You killed MOLESLEY ⛧","description":"with the AUG","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"83","time":"533676","type":"event","title":"You were killed by R","description":"with the Galil AR","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"84","time":"540525","type":"event","title":"You killed R","description":"with the AUG","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"85","time":"547894","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the Glock-18","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"86","time":"563340","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the P2000","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"87","time":"570104","type":"event","title":"You killed Vingador SJRP ;x","description":"with the Galil AR","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"88","time":"576130","type":"event","title":"You were killed by MeLeKa","description":"with the Zeus x27","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"89","time":"586611","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the USP-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"90","time":"597920","type":"event","title":"You killed MOLESLEY ⛧","description":"with the Galil AR","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"91","time":"603946","type":"event","title":"You were killed by R","description":"with the MP5-SD","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"92","time":"613635","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the MAG-7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"93","time":"611136","type":"event","title":"You killed RodrigoMPB","description":"with the Galil AR","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"94","time":"623556","type":"event","title":"You killed RodrigoMPB","description":"with the M4A1-S","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"95","time":"633132","type":"event","title":"You were killed by MOLESLEY ⛧","description":"with the XM1014","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"96","time":"633832","type":"gamemode","mode":3},{"id":"97","time":"636528","type":"gamemode","mode":3}],"endtime":"648540"}},{"id":"timeline_73020250608_152836","content":{"daterecorded":"1749396516","starttime":"0","entries":[{"id":"1","time":"23404","type":"gamemode","mode":3},{"id":"2","time":"29125","type":"gamemode","mode":3},{"id":"3","time":"59667","type":"gamemode","mode":4},{"id":"4","time":"62104","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"5","time":"62104","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"6","time":"64231","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"7","time":"65212","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"8","time":"65212","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"9","time":"66755","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"10","time":"66755","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"11","time":"68305","type":"gamemode","mode":1},{"id":"12","time":"75083","type":"event","title":"You were killed by Hollyyyyyy","description":"with the AWP","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"13","time":"81004","type":"event","title":"You were killed by zanm9","description":"with the PP-Bizon","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"14","time":"87021","type":"event","title":"You were killed by DuhhH#44","description":"with the PP-Bizon","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"15","time":"94335","type":"event","title":"You were killed by zanm9","description":"with the MP5-SD","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"16","time":"92975","type":"event","title":"You killed Hollyyyyyy","description":"with the G3SG1","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"17","time":"105751","type":"event","title":"You were killed by SkYy","description":"with the MP5-SD","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"18","time":"97418","type":"event","title":"Double kill","description":"You killed eu mermo and Hollyyyyyy","icon":"cs2_double_kill","priority":1000,"duration":"7562","possible_clip":3},{"id":"19","time":"116196","type":"event","title":"You killed SkYy","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"20","time":"122335","type":"event","title":"You were killed by DuhhH#44","description":"with the UMP-45","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"21","time":"126338","type":"event","title":"You killed DuhhH#44","description":"with the SG 553","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"22","time":"132882","type":"event","title":"You killed eu mermo","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"23","time":"139333","type":"event","title":"You were killed by Hollyyyyyy","description":"with the AUG","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"24","time":"145585","type":"event","title":"You were killed by SkYy","description":"with the Knife","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"25","time":"144217","type":"event","title":"You killed zanm9","description":"with the AUG","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"26","time":"162782","type":"event","title":"You killed pikapou","description":"with the Galil AR","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"27","time":"168456","type":"event","title":"Double kill","description":"You killed zanm9 and guizin da ppk turbinada","icon":"cs2_double_kill","priority":1000,"duration":"6640","possible_clip":3},{"id":"28","time":"187833","type":"event","title":"You were killed by zanm9","description":"with the Tec-9","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"29","time":"186191","type":"event","title":"You killed guizin da ppk turbinada","description":"with the FAMAS","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"30","time":"203165","type":"event","title":"You were killed by zanm9","description":"with the USP-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"31","time":"198991","type":"event","title":"You killed SkYy","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"32","time":"206551","type":"event","title":"You killed guizin da ppk turbinada","description":"with the Negev","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"33","time":"220409","type":"event","title":"You killed guizin da ppk turbinada","description":"with the PP-Bizon","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"34","time":"227954","type":"event","title":"You were killed by zanm9","description":"with the MAG-7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"35","time":"236109","type":"event","title":"You were killed by SkYy","description":"with the USP-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"36","time":"234051","type":"event","title":"You killed DuhhH#44","description":"with the PP-Bizon","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"37","time":"240406","type":"event","title":"You were killed by SkYy","description":"with the USP-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"38","time":"244471","type":"event","title":"You were killed by zanm9","description":"with the Sawed-Off","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"39","time":"249613","type":"event","title":"You were killed by pikapou","description":"with the SG 553","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"40","time":"248391","type":"event","title":"You killed DuhhH#44","description":"with the MP5-SD","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"41","time":"254533","type":"event","title":"You were killed by SkYy","description":"with the MAG-7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"42","time":"258706","type":"event","title":"You were killed by SkYy","description":"with the Sawed-Off","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"43","time":"253861","type":"event","title":"You killed Hollyyyyyy","description":"with the MP5-SD","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"44","time":"262418","type":"event","title":"You killed SkYy","description":"with the UMP-45","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"45","time":"279319","type":"event","title":"You killed SkYy","description":"with the UMP-45","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"46","time":"287744","type":"event","title":"You killed SkYy","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"47","time":"324314","type":"gamemode","mode":4},{"id":"48","time":"332045","type":"gamemode","mode":1},{"id":"49","time":"351062","type":"event","title":"You were killed by zanm9","description":"with the SCAR-20","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"50","time":"340155","type":"event","title":"Double kill","description":"You killed Rex and zanm9 with the Knife","icon":"cs2_double_kill","priority":1000,"duration":"8015","possible_clip":3},{"id":"51","time":"355642","type":"phase","duration":"284743","tags":[{"name":"Classic","icon":"cs2_logo","group":"Mode","priority":500},{"name":"Pool Day","icon":"map_icon_ar_pool_day","group":"Map","priority":500}]},{"id":"52","time":"361565","type":"event","title":"Double kill","description":"You killed Rex and zanm9 with the SCAR-20","icon":"cs2_double_kill","priority":1000,"duration":"6937","possible_clip":3},{"id":"53","time":"392618","type":"event","title":"You killed BaianoSzz","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"54","time":"401113","type":"event","title":"You were killed by BaianoSzz","description":"with the SCAR-20","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"55","time":"399748","type":"event","title":"You killed SkYy","description":"with the SG 553","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"56","time":"406519","type":"event","title":"You were killed by SkYy","description":"with the FAMAS","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"57","time":"410305","type":"event","title":"You killed zanm9","description":"with the SG 553","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"58","time":"418711","type":"event","title":"You were killed by zanm9","description":"with the Knife","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"59","time":"421637","type":"event","title":"You were killed by guizin da ppk turbinada","description":"with the AWP","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"60","time":"414711","type":"event","title":"Double kill","description":"You killed guizin da ppk turbinada and BaianoSzz","icon":"cs2_double_kill","priority":1000,"duration":"5328","possible_clip":3},{"id":"61","time":"426188","type":"event","title":"Double kill","description":"You killed SkYy and guizin da ppk turbinada","icon":"cs2_double_kill","priority":1000,"duration":"7218","possible_clip":3},{"id":"62","time":"438418","type":"event","title":"You were killed by SkYy","description":"with the AK-47","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"63","time":"443602","type":"event","title":"You were killed by SkYy","description":"with the Negev","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"64","time":"450255","type":"event","title":"You were killed by 𝕵𝖍𝖔𝖓𝖞","description":"with the FAMAS","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"65","time":"448510","type":"event","title":"You killed SkYy","description":"with the M4A1-S","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"66","time":"455954","type":"event","title":"You were killed by guizin da ppk turbinada","description":"with the FAMAS","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"67","time":"471254","type":"event","title":"You were killed by BaianoSzz","description":"with the SCAR-20","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"68","time":"475264","type":"event","title":"Double kill","description":"You killed Lotus and Leozim with the AK-47","icon":"cs2_double_kill","priority":1000,"duration":"7843","possible_clip":3},{"id":"69","time":"486992","type":"event","title":"You were killed by Lotus","description":"with the MP7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"70","time":"490970","type":"event","title":"You were killed by BaianoSzz","description":"with the AWP","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"71","time":"495329","type":"event","title":"You killed Leozim","description":"with the Negev","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"72","time":"511092","type":"event","title":"You were killed by Lotus","description":"with the MP7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"73","time":"503835","type":"event","title":"Double kill","description":"You killed Lotus and 𝕵𝖍𝖔𝖓𝖞","icon":"cs2_double_kill","priority":1000,"duration":"6015","possible_clip":3},{"id":"74","time":"514705","type":"event","title":"You were killed by BaianoSzz","description":"with the AWP","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"75","time":"523585","type":"event","title":"You were killed by Leozim","description":"with the SG 553","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"76","time":"521773","type":"event","title":"You killed BaianoSzz","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"77","time":"527952","type":"event","title":"You killed Lotus","description":"with the MP9","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"78","time":"541670","type":"event","title":"You were killed by Lotus","description":"with the MP9","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"79","time":"531373","type":"event","title":"Double kill","description":"You killed 𝕵𝖍𝖔𝖓𝖞 and 𝕵𝖍𝖔𝖓𝖞","icon":"cs2_double_kill","priority":1000,"duration":"7984","possible_clip":3},{"id":"80","time":"546411","type":"event","title":"You killed zanm9","description":"with the MP5-SD","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"81","time":"557315","type":"event","title":"You were killed by Lotus","description":"with the MP5-SD","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"82","time":"561788","type":"event","title":"You were killed by 𝕵𝖍𝖔𝖓𝖞","description":"with the MP7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"83","time":"568872","type":"event","title":"You were killed by zanm9","description":"with the Zeus x27","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"84","time":"572491","type":"event","title":"You were killed by SkYy","description":"with the Five-SeveN","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"85","time":"567678","type":"event","title":"You killed 𝕵𝖍𝖔𝖓𝖞","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"86","time":"576793","type":"event","title":"You killed SkYy","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"87","time":"582261","type":"event","title":"You were killed by 𝕵𝖍𝖔𝖓𝖞","description":"with the MP9","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"88","time":"589985","type":"event","title":"You were killed by zanm9","description":"with the R8 Revolver","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"89","time":"589525","type":"event","title":"You killed BaianoSzz","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"90","time":"595427","type":"event","title":"You were killed by SkYy","description":"with the Tec-9","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"91","time":"602912","type":"event","title":"You were killed by SkYy","description":"with the Sawed-Off","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"92","time":"608109","type":"event","title":"You were killed by SkYy","description":"with the Sawed-Off","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"93","time":"620378","type":"event","title":"You were killed by SkYy","description":"with the Sawed-Off","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"94","time":"614111","type":"event","title":"Double kill","description":"You killed SkYy and Lotus","icon":"cs2_double_kill","priority":1000,"duration":"5109","possible_clip":3},{"id":"95","time":"639465","type":"gamemode","mode":3},{"id":"96","time":"640385","type":"gamemode","mode":3}],"endtime":"649498"}},{"id":"timeline_73020250608_150355","content":{"daterecorded":"1749395035","starttime":"0","entries":[{"id":"131","time":"26965","type":"gamemode","mode":3},{"id":"132","time":"34586","type":"gamemode","mode":3},{"id":"133","time":"77120","type":"gamemode","mode":4},{"id":"134","time":"85148","type":"gamemode","mode":1},{"id":"135","time":"85426","type":"gamemode","mode":4},{"id":"136","time":"96888","type":"gamemode","mode":3},{"id":"137","time":"131195","type":"gamemode","mode":4},{"id":"138","time":"133040","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"139","time":"133857","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"140","time":"133857","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"141","time":"137929","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"142","time":"137929","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"143","time":"137929","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"144","time":"138739","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"145","time":"139219","type":"gamemode","mode":1},{"id":"146","time":"143995","type":"event","title":"You killed yourself","description":"","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"147","time":"144054","type":"event","title":"You killed ☭ MIRA FOFO ☭","description":"with the world","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"148","time":"152239","type":"event","title":"You killed j4mvit","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"149","time":"164585","type":"event","title":"You were killed by Análise","description":"with the M4A1-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"150","time":"162071","type":"event","title":"You killed Baranhaaa SKINS","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"151","time":"169435","type":"event","title":"You were killed by Tornland","description":"with the Galil AR","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"152","time":"182400","type":"event","title":"You were killed by j4mvit","description":"with the M4A1-S","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"153","time":"189434","type":"event","title":"You were killed by Tornland","description":"with the AK-47","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"154","time":"197288","type":"event","title":"You were killed by Tornland","description":"with the AK-47","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"155","time":"237284","type":"event","title":"You were killed by Tornland","description":"with the UMP-45","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"156","time":"229842","type":"event","title":"Double kill","description":"You killed Baranhaaa SKINS and j4mvit","icon":"cs2_double_kill","priority":1000,"duration":"5843","possible_clip":3},{"id":"157","time":"241808","type":"event","title":"You were killed by Análise","description":"with the UMP-45","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"158","time":"262885","type":"event","title":"You were killed by Tornland","description":"with the MP5-SD","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"159","time":"266348","type":"event","title":"You killed ✪ MM ®","description":"with the M4A1-S","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"160","time":"282209","type":"event","title":"You were killed by ✪ MM ®","description":"with the AK-47","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"161","time":"280135","type":"event","title":"You killed j4mvit","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"162","time":"286533","type":"event","title":"You killed j4mvit","description":"with the Galil AR","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"163","time":"294388","type":"event","title":"Double kill","description":"You killed Tornland and Análise","icon":"cs2_double_kill","priority":1000,"duration":"7187","possible_clip":3},{"id":"164","time":"304749","type":"event","title":"You were killed by Tornland","description":"with the MAC-10","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"165","time":"309246","type":"event","title":"You were killed by j4mvit","description":"with the MP5-SD","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"166","time":"319957","type":"event","title":"You were killed by j4mvit","description":"with the MAC-10","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"167","time":"336621","type":"event","title":"You were killed by ✪ MM ®","description":"with the SSG 08","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"168","time":"331884","type":"event","title":"You killed ✪ MM ®","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"169","time":"353813","type":"event","title":"You were killed by ✪ MM ®","description":"with the Zeus x27","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"170","time":"345818","type":"event","title":"Multi kill","description":"You killed ✪ MM ®, Baranhaaa SKINS, and j4mvit","icon":"cs2_multi_kill","priority":1000,"duration":"9218","possible_clip":3},{"id":"171","time":"366624","type":"event","title":"Double kill","description":"You killed Análise and j4mvit","icon":"cs2_double_kill","priority":1000,"duration":"8453","possible_clip":3},{"id":"172","time":"381519","type":"event","title":"You killed Tornland","description":"with the Knife","icon":"cs2_knife_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"173","time":"387759","type":"event","title":"You killed j4mvit","description":"with the MAC-10","icon":"cs2_gun_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"174","time":"399214","type":"event","title":"Double kill","description":"You killed Baranhaaa SKINS and Análise","icon":"cs2_double_kill","priority":1000,"duration":"6890","possible_clip":3},{"id":"175","time":"413948","type":"event","title":"You were killed by Análise","description":"with the P250","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"176","time":"420799","type":"event","title":"You were killed by Tornland","description":"with the SSG 08","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"177","time":"420110","type":"event","title":"You killed j4mvit","description":"with the Zeus x27","icon":"cs2_taser_kill","priority":1000,"duration":"0","possible_clip":2},{"id":"178","time":"427696","type":"event","title":"You were killed by Análise","description":"with the MAG-7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"179","time":"436700","type":"event","title":"You were killed by j4mvit","description":"with the P250","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"180","time":"444476","type":"event","title":"You were killed by ✪ MM ®","description":"with the MAG-7","icon":"cs2_death","priority":1000,"duration":"0","possible_clip":1},{"id":"181","time":"459253","type":"gamemode","mode":3},{"id":"182","time":"460464","type":"gamemode","mode":3}],"endtime":"470583"}}]
+[
+  {
+    "id": "timeline_73020250608_150355",
+    "content": {
+      "daterecorded": "1749395035",
+      "starttime": "0",
+      "entries": [
+        {
+          "id": "131",
+          "time": "26965",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "132",
+          "time": "34586",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "133",
+          "time": "77120",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "134",
+          "time": "85148",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "135",
+          "time": "85426",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "136",
+          "time": "96888",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "137",
+          "time": "131195",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "138",
+          "time": "133040",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "139",
+          "time": "133857",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "140",
+          "time": "133857",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "141",
+          "time": "137929",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "142",
+          "time": "137929",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "143",
+          "time": "137929",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "144",
+          "time": "138739",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "145",
+          "time": "139219",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "146",
+          "time": "143995",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "147",
+          "time": "144054",
+          "type": "event",
+          "title": "You killed ☭ MIRA FOFO ☭",
+          "description": "with the world",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "148",
+          "time": "152239",
+          "type": "event",
+          "title": "You killed j4mvit",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "149",
+          "time": "164585",
+          "type": "event",
+          "title": "You were killed by Análise",
+          "description": "with the M4A1-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "150",
+          "time": "162071",
+          "type": "event",
+          "title": "You killed Baranhaaa SKINS",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "151",
+          "time": "169435",
+          "type": "event",
+          "title": "You were killed by Tornland",
+          "description": "with the Galil AR",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "152",
+          "time": "182400",
+          "type": "event",
+          "title": "You were killed by j4mvit",
+          "description": "with the M4A1-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "153",
+          "time": "189434",
+          "type": "event",
+          "title": "You were killed by Tornland",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "154",
+          "time": "197288",
+          "type": "event",
+          "title": "You were killed by Tornland",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "155",
+          "time": "237284",
+          "type": "event",
+          "title": "You were killed by Tornland",
+          "description": "with the UMP-45",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "156",
+          "time": "229842",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Baranhaaa SKINS and j4mvit",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "5843",
+          "possible_clip": 3
+        },
+        {
+          "id": "157",
+          "time": "241808",
+          "type": "event",
+          "title": "You were killed by Análise",
+          "description": "with the UMP-45",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "158",
+          "time": "262885",
+          "type": "event",
+          "title": "You were killed by Tornland",
+          "description": "with the MP5-SD",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "159",
+          "time": "266348",
+          "type": "event",
+          "title": "You killed ✪ MM ®",
+          "description": "with the M4A1-S",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "160",
+          "time": "282209",
+          "type": "event",
+          "title": "You were killed by ✪ MM ®",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "161",
+          "time": "280135",
+          "type": "event",
+          "title": "You killed j4mvit",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "162",
+          "time": "286533",
+          "type": "event",
+          "title": "You killed j4mvit",
+          "description": "with the Galil AR",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "163",
+          "time": "294388",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Tornland and Análise",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "7187",
+          "possible_clip": 3
+        },
+        {
+          "id": "164",
+          "time": "304749",
+          "type": "event",
+          "title": "You were killed by Tornland",
+          "description": "with the MAC-10",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "165",
+          "time": "309246",
+          "type": "event",
+          "title": "You were killed by j4mvit",
+          "description": "with the MP5-SD",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "166",
+          "time": "319957",
+          "type": "event",
+          "title": "You were killed by j4mvit",
+          "description": "with the MAC-10",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "167",
+          "time": "336621",
+          "type": "event",
+          "title": "You were killed by ✪ MM ®",
+          "description": "with the SSG 08",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "168",
+          "time": "331884",
+          "type": "event",
+          "title": "You killed ✪ MM ®",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "169",
+          "time": "353813",
+          "type": "event",
+          "title": "You were killed by ✪ MM ®",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "170",
+          "time": "345818",
+          "type": "event",
+          "title": "Multi kill",
+          "description": "You killed ✪ MM ®, Baranhaaa SKINS, and j4mvit",
+          "icon": "cs2_multi_kill",
+          "priority": 1000,
+          "duration": "9218",
+          "possible_clip": 3
+        },
+        {
+          "id": "171",
+          "time": "366624",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Análise and j4mvit",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "8453",
+          "possible_clip": 3
+        },
+        {
+          "id": "172",
+          "time": "381519",
+          "type": "event",
+          "title": "You killed Tornland",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "173",
+          "time": "387759",
+          "type": "event",
+          "title": "You killed j4mvit",
+          "description": "with the MAC-10",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "174",
+          "time": "399214",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Baranhaaa SKINS and Análise",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "6890",
+          "possible_clip": 3
+        },
+        {
+          "id": "175",
+          "time": "413948",
+          "type": "event",
+          "title": "You were killed by Análise",
+          "description": "with the P250",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "176",
+          "time": "420799",
+          "type": "event",
+          "title": "You were killed by Tornland",
+          "description": "with the SSG 08",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "177",
+          "time": "420110",
+          "type": "event",
+          "title": "You killed j4mvit",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "178",
+          "time": "427696",
+          "type": "event",
+          "title": "You were killed by Análise",
+          "description": "with the MAG-7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "179",
+          "time": "436700",
+          "type": "event",
+          "title": "You were killed by j4mvit",
+          "description": "with the P250",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "180",
+          "time": "444476",
+          "type": "event",
+          "title": "You were killed by ✪ MM ®",
+          "description": "with the MAG-7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "181",
+          "time": "459253",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "182",
+          "time": "460464",
+          "type": "gamemode",
+          "mode": 3
+        }
+      ],
+      "endtime": "470583"
+    }
+  },
+  {
+    "id": "timeline_73020250608_175910",
+    "content": {
+      "daterecorded": "1749405550",
+      "starttime": "0",
+      "entries": [
+        {
+          "id": "25",
+          "time": "20250",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "26",
+          "time": "24744",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "27",
+          "time": "50006",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "28",
+          "time": "50193",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "29",
+          "time": "50338",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "30",
+          "time": "52441",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "31",
+          "time": "56246",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "32",
+          "time": "56254",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "33",
+          "time": "56254",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "34",
+          "time": "56254",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "35",
+          "time": "57509",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "36",
+          "time": "63702",
+          "type": "event",
+          "title": "You were killed by R",
+          "description": "with the MAC-10",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "37",
+          "time": "82922",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the P90",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "38",
+          "time": "94918",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the MAC-10",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "39",
+          "time": "99369",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the MAC-10",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "40",
+          "time": "103917",
+          "type": "event",
+          "title": "You were killed by R",
+          "description": "with the SSG 08",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "41",
+          "time": "103093",
+          "type": "event",
+          "title": "You killed MeLeKa",
+          "description": "with the SCAR-20",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "42",
+          "time": "108179",
+          "type": "event",
+          "title": "You killed MOLESLEY ⛧",
+          "description": "with the SCAR-20",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "43",
+          "time": "122381",
+          "type": "event",
+          "title": "You killed Lieutenant",
+          "description": "with the AWP",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "44",
+          "time": "128254",
+          "type": "event",
+          "title": "You were killed by Farlow",
+          "description": "with the M4A4",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "45",
+          "time": "138815",
+          "type": "event",
+          "title": "You were killed by Farlow",
+          "description": "with the M4A1-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "46",
+          "time": "138453",
+          "type": "event",
+          "title": "You killed Lieutenant",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "47",
+          "time": "166110",
+          "type": "event",
+          "title": "You were killed by R",
+          "description": "with the Five-SeveN",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "48",
+          "time": "142998",
+          "type": "event",
+          "title": "Multi kill",
+          "description": "You killed MOLESLEY ⛧, Lieutenant, Farlow, MOLESLEY ⛧, and Lieutenant",
+          "icon": "cs2_multi_kill",
+          "priority": 1000,
+          "duration": "20796",
+          "possible_clip": 3
+        },
+        {
+          "id": "49",
+          "time": "192011",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "50",
+          "time": "189935",
+          "type": "event",
+          "title": "You killed Lieutenant",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "51",
+          "time": "196124",
+          "type": "event",
+          "title": "You killed MOLESLEY ⛧",
+          "description": "with the AUG",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "52",
+          "time": "209963",
+          "type": "event",
+          "title": "You were killed by Lieutenant",
+          "description": "with the SCAR-20",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "53",
+          "time": "216055",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "54",
+          "time": "229302",
+          "type": "event",
+          "title": "You were killed by Farlow",
+          "description": "with the P90",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "55",
+          "time": "233065",
+          "type": "event",
+          "title": "You killed R",
+          "description": "with the AUG",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "56",
+          "time": "273008",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "57",
+          "time": "282178",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "58",
+          "time": "294102",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Getaway and Hugg",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "5859",
+          "possible_clip": 3
+        },
+        {
+          "id": "59",
+          "time": "303832",
+          "type": "phase",
+          "duration": "332696",
+          "tags": [
+            {
+              "name": "Classic",
+              "icon": "cs2_logo",
+              "group": "Mode",
+              "priority": 500
+            },
+            {
+              "name": "Baggage",
+              "icon": "map_icon_ar_baggage",
+              "group": "Map",
+              "priority": 500
+            }
+          ]
+        },
+        {
+          "id": "60",
+          "time": "312522",
+          "type": "event",
+          "title": "You were killed by Vingador SJRP ;x",
+          "description": "with the G3SG1",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "61",
+          "time": "324776",
+          "type": "event",
+          "title": "You killed Vingador SJRP ;x",
+          "description": "with the G3SG1",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "62",
+          "time": "333089",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the G3SG1",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "63",
+          "time": "339211",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the G3SG1",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "64",
+          "time": "343304",
+          "type": "event",
+          "title": "You killed RodrigoMPB",
+          "description": "with the G3SG1",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "65",
+          "time": "354084",
+          "type": "event",
+          "title": "You were killed by Vingador SJRP ;x",
+          "description": "with the AWP",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "66",
+          "time": "360994",
+          "type": "event",
+          "title": "You were killed by Vingador SJRP ;x",
+          "description": "with the AWP",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "67",
+          "time": "379141",
+          "type": "event",
+          "title": "You were killed by RodrigoMPB",
+          "description": "with the M4A4",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "68",
+          "time": "392155",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the AWP",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "69",
+          "time": "421520",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "70",
+          "time": "433839",
+          "type": "event",
+          "title": "You were killed by Vingador SJRP ;x",
+          "description": "with the M4A1-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "71",
+          "time": "431430",
+          "type": "event",
+          "title": "You killed MeLeKa",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "72",
+          "time": "449922",
+          "type": "event",
+          "title": "You were killed by RodrigoMPB",
+          "description": "with the Galil AR",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "73",
+          "time": "447055",
+          "type": "event",
+          "title": "You killed R",
+          "description": "with the AWP",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "74",
+          "time": "459416",
+          "type": "event",
+          "title": "You killed RodrigoMPB",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "75",
+          "time": "464703",
+          "type": "event",
+          "title": "You killed MOLESLEY ⛧",
+          "description": "with the M4A4",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "76",
+          "time": "479738",
+          "type": "event",
+          "title": "You were killed by Vingador SJRP ;x",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "77",
+          "time": "487617",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the M4A4",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "78",
+          "time": "501219",
+          "type": "event",
+          "title": "You killed RodrigoMPB",
+          "description": "with the M4A4",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "79",
+          "time": "508218",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the M4A4",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "80",
+          "time": "506867",
+          "type": "event",
+          "title": "You killed R",
+          "description": "with the M4A4",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "81",
+          "time": "516156",
+          "type": "event",
+          "title": "You were killed by R",
+          "description": "with the AUG",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "82",
+          "time": "524546",
+          "type": "event",
+          "title": "You killed MOLESLEY ⛧",
+          "description": "with the AUG",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "83",
+          "time": "533676",
+          "type": "event",
+          "title": "You were killed by R",
+          "description": "with the Galil AR",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "84",
+          "time": "540525",
+          "type": "event",
+          "title": "You killed R",
+          "description": "with the AUG",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "85",
+          "time": "547894",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the Glock-18",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "86",
+          "time": "563340",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the P2000",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "87",
+          "time": "570104",
+          "type": "event",
+          "title": "You killed Vingador SJRP ;x",
+          "description": "with the Galil AR",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "88",
+          "time": "576130",
+          "type": "event",
+          "title": "You were killed by MeLeKa",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "89",
+          "time": "586611",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the USP-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "90",
+          "time": "597920",
+          "type": "event",
+          "title": "You killed MOLESLEY ⛧",
+          "description": "with the Galil AR",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "91",
+          "time": "603946",
+          "type": "event",
+          "title": "You were killed by R",
+          "description": "with the MP5-SD",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "92",
+          "time": "613635",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the MAG-7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "93",
+          "time": "611136",
+          "type": "event",
+          "title": "You killed RodrigoMPB",
+          "description": "with the Galil AR",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "94",
+          "time": "623556",
+          "type": "event",
+          "title": "You killed RodrigoMPB",
+          "description": "with the M4A1-S",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "95",
+          "time": "633132",
+          "type": "event",
+          "title": "You were killed by MOLESLEY ⛧",
+          "description": "with the XM1014",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "96",
+          "time": "633832",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "97",
+          "time": "636528",
+          "type": "gamemode",
+          "mode": 3
+        }
+      ],
+      "endtime": "648540"
+    }
+  },
+  {
+    "id": "timeline_73020250608_152836",
+    "content": {
+      "daterecorded": "1749396516",
+      "starttime": "0",
+      "entries": [
+        {
+          "id": "1",
+          "time": "23404",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "2",
+          "time": "29125",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "3",
+          "time": "59667",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "4",
+          "time": "62104",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "5",
+          "time": "62104",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "6",
+          "time": "64231",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "7",
+          "time": "65212",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "8",
+          "time": "65212",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "9",
+          "time": "66755",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "10",
+          "time": "66755",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "11",
+          "time": "68305",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "12",
+          "time": "75083",
+          "type": "event",
+          "title": "You were killed by Hollyyyyyy",
+          "description": "with the AWP",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "13",
+          "time": "81004",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the PP-Bizon",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "14",
+          "time": "87021",
+          "type": "event",
+          "title": "You were killed by DuhhH#44",
+          "description": "with the PP-Bizon",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "15",
+          "time": "94335",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the MP5-SD",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "16",
+          "time": "92975",
+          "type": "event",
+          "title": "You killed Hollyyyyyy",
+          "description": "with the G3SG1",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "17",
+          "time": "105751",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the MP5-SD",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "18",
+          "time": "97418",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed eu mermo and Hollyyyyyy",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "7562",
+          "possible_clip": 3
+        },
+        {
+          "id": "19",
+          "time": "116196",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "20",
+          "time": "122335",
+          "type": "event",
+          "title": "You were killed by DuhhH#44",
+          "description": "with the UMP-45",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "21",
+          "time": "126338",
+          "type": "event",
+          "title": "You killed DuhhH#44",
+          "description": "with the SG 553",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "22",
+          "time": "132882",
+          "type": "event",
+          "title": "You killed eu mermo",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "23",
+          "time": "139333",
+          "type": "event",
+          "title": "You were killed by Hollyyyyyy",
+          "description": "with the AUG",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "24",
+          "time": "145585",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Knife",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "25",
+          "time": "144217",
+          "type": "event",
+          "title": "You killed zanm9",
+          "description": "with the AUG",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "26",
+          "time": "162782",
+          "type": "event",
+          "title": "You killed pikapou",
+          "description": "with the Galil AR",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "27",
+          "time": "168456",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed zanm9 and guizin da ppk turbinada",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "6640",
+          "possible_clip": 3
+        },
+        {
+          "id": "28",
+          "time": "187833",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the Tec-9",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "29",
+          "time": "186191",
+          "type": "event",
+          "title": "You killed guizin da ppk turbinada",
+          "description": "with the FAMAS",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "30",
+          "time": "203165",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the USP-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "31",
+          "time": "198991",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "32",
+          "time": "206551",
+          "type": "event",
+          "title": "You killed guizin da ppk turbinada",
+          "description": "with the Negev",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "33",
+          "time": "220409",
+          "type": "event",
+          "title": "You killed guizin da ppk turbinada",
+          "description": "with the PP-Bizon",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "34",
+          "time": "227954",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the MAG-7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "35",
+          "time": "236109",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the USP-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "36",
+          "time": "234051",
+          "type": "event",
+          "title": "You killed DuhhH#44",
+          "description": "with the PP-Bizon",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "37",
+          "time": "240406",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the USP-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "38",
+          "time": "244471",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the Sawed-Off",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "39",
+          "time": "249613",
+          "type": "event",
+          "title": "You were killed by pikapou",
+          "description": "with the SG 553",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "40",
+          "time": "248391",
+          "type": "event",
+          "title": "You killed DuhhH#44",
+          "description": "with the MP5-SD",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "41",
+          "time": "254533",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the MAG-7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "42",
+          "time": "258706",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Sawed-Off",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "43",
+          "time": "253861",
+          "type": "event",
+          "title": "You killed Hollyyyyyy",
+          "description": "with the MP5-SD",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "44",
+          "time": "262418",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the UMP-45",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "45",
+          "time": "279319",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the UMP-45",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "46",
+          "time": "287744",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "47",
+          "time": "324314",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "48",
+          "time": "332045",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "49",
+          "time": "351062",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the SCAR-20",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "50",
+          "time": "340155",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Rex and zanm9 with the Knife",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "8015",
+          "possible_clip": 3
+        },
+        {
+          "id": "51",
+          "time": "355642",
+          "type": "phase",
+          "duration": "284743",
+          "tags": [
+            {
+              "name": "Classic",
+              "icon": "cs2_logo",
+              "group": "Mode",
+              "priority": 500
+            },
+            {
+              "name": "Pool Day",
+              "icon": "map_icon_ar_pool_day",
+              "group": "Map",
+              "priority": 500
+            }
+          ]
+        },
+        {
+          "id": "52",
+          "time": "361565",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Rex and zanm9 with the SCAR-20",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "6937",
+          "possible_clip": 3
+        },
+        {
+          "id": "53",
+          "time": "392618",
+          "type": "event",
+          "title": "You killed BaianoSzz",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "54",
+          "time": "401113",
+          "type": "event",
+          "title": "You were killed by BaianoSzz",
+          "description": "with the SCAR-20",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "55",
+          "time": "399748",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the SG 553",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "56",
+          "time": "406519",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the FAMAS",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "57",
+          "time": "410305",
+          "type": "event",
+          "title": "You killed zanm9",
+          "description": "with the SG 553",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "58",
+          "time": "418711",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the Knife",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "59",
+          "time": "421637",
+          "type": "event",
+          "title": "You were killed by guizin da ppk turbinada",
+          "description": "with the AWP",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "60",
+          "time": "414711",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed guizin da ppk turbinada and BaianoSzz",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "5328",
+          "possible_clip": 3
+        },
+        {
+          "id": "61",
+          "time": "426188",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed SkYy and guizin da ppk turbinada",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "7218",
+          "possible_clip": 3
+        },
+        {
+          "id": "62",
+          "time": "438418",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "63",
+          "time": "443602",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Negev",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "64",
+          "time": "450255",
+          "type": "event",
+          "title": "You were killed by 𝕵𝖍𝖔𝖓𝖞",
+          "description": "with the FAMAS",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "65",
+          "time": "448510",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the M4A1-S",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "66",
+          "time": "455954",
+          "type": "event",
+          "title": "You were killed by guizin da ppk turbinada",
+          "description": "with the FAMAS",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "67",
+          "time": "471254",
+          "type": "event",
+          "title": "You were killed by BaianoSzz",
+          "description": "with the SCAR-20",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "68",
+          "time": "475264",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Lotus and Leozim with the AK-47",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "7843",
+          "possible_clip": 3
+        },
+        {
+          "id": "69",
+          "time": "486992",
+          "type": "event",
+          "title": "You were killed by Lotus",
+          "description": "with the MP7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "70",
+          "time": "490970",
+          "type": "event",
+          "title": "You were killed by BaianoSzz",
+          "description": "with the AWP",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "71",
+          "time": "495329",
+          "type": "event",
+          "title": "You killed Leozim",
+          "description": "with the Negev",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "72",
+          "time": "511092",
+          "type": "event",
+          "title": "You were killed by Lotus",
+          "description": "with the MP7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "73",
+          "time": "503835",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Lotus and 𝕵𝖍𝖔𝖓𝖞",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "6015",
+          "possible_clip": 3
+        },
+        {
+          "id": "74",
+          "time": "514705",
+          "type": "event",
+          "title": "You were killed by BaianoSzz",
+          "description": "with the AWP",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "75",
+          "time": "523585",
+          "type": "event",
+          "title": "You were killed by Leozim",
+          "description": "with the SG 553",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "76",
+          "time": "521773",
+          "type": "event",
+          "title": "You killed BaianoSzz",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "77",
+          "time": "527952",
+          "type": "event",
+          "title": "You killed Lotus",
+          "description": "with the MP9",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "78",
+          "time": "541670",
+          "type": "event",
+          "title": "You were killed by Lotus",
+          "description": "with the MP9",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "79",
+          "time": "531373",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed 𝕵𝖍𝖔𝖓𝖞 and 𝕵𝖍𝖔𝖓𝖞",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "7984",
+          "possible_clip": 3
+        },
+        {
+          "id": "80",
+          "time": "546411",
+          "type": "event",
+          "title": "You killed zanm9",
+          "description": "with the MP5-SD",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "81",
+          "time": "557315",
+          "type": "event",
+          "title": "You were killed by Lotus",
+          "description": "with the MP5-SD",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "82",
+          "time": "561788",
+          "type": "event",
+          "title": "You were killed by 𝕵𝖍𝖔𝖓𝖞",
+          "description": "with the MP7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "83",
+          "time": "568872",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "84",
+          "time": "572491",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Five-SeveN",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "85",
+          "time": "567678",
+          "type": "event",
+          "title": "You killed 𝕵𝖍𝖔𝖓𝖞",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "86",
+          "time": "576793",
+          "type": "event",
+          "title": "You killed SkYy",
+          "description": "with the Knife",
+          "icon": "cs2_knife_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "87",
+          "time": "582261",
+          "type": "event",
+          "title": "You were killed by 𝕵𝖍𝖔𝖓𝖞",
+          "description": "with the MP9",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "88",
+          "time": "589985",
+          "type": "event",
+          "title": "You were killed by zanm9",
+          "description": "with the R8 Revolver",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "89",
+          "time": "589525",
+          "type": "event",
+          "title": "You killed BaianoSzz",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "90",
+          "time": "595427",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Tec-9",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "91",
+          "time": "602912",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Sawed-Off",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "92",
+          "time": "608109",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Sawed-Off",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "93",
+          "time": "620378",
+          "type": "event",
+          "title": "You were killed by SkYy",
+          "description": "with the Sawed-Off",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "94",
+          "time": "614111",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed SkYy and Lotus",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "5109",
+          "possible_clip": 3
+        },
+        {
+          "id": "95",
+          "time": "639465",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "96",
+          "time": "640385",
+          "type": "gamemode",
+          "mode": 3
+        }
+      ],
+      "endtime": "649498"
+    }
+  }
+]
