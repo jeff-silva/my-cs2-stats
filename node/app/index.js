@@ -2,6 +2,9 @@ import path from "path";
 import fs from "fs";
 import { Edge } from "edge.js";
 
+const edge = Edge.create();
+edge.mount(new URL("./templates", import.meta.url));
+
 const jsonStringify = (data) => {
   return JSON.stringify(data);
   // return JSON.stringify(data, null, 2);
@@ -107,16 +110,10 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
     "utf-8"
   );
 
-  const template = await fs.promises.readFile(
-    path.join(
-      process.cwd(),
-      "templates",
-      "report_deaths_vs_kills_players.html"
-    ),
-    "utf-8"
-  );
+  const rendered = await edge.render("report_deaths_vs_kills_players", {
+    data,
+  });
 
-  const rendered = await Edge.create().renderRaw(template, { data });
   fs.promises.writeFile(
     path.join(process.cwd(), "pages", "report_deaths_vs_kills_players.html"),
     rendered,
@@ -124,5 +121,15 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
   );
 };
 
+const renderIndex = async (timelines) => {
+  const rendered = await edge.render("index", {});
+  fs.promises.writeFile(
+    path.join(process.cwd(), "pages", "index.html"),
+    rendered,
+    "utf-8"
+  );
+};
+
 const timelines = await generateTimelines();
 await reportDeathsVsKillsPlayers(timelines);
+await renderIndex(timelines);
