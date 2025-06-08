@@ -4,5 +4,8 @@
   "license": "MIT",
   "scripts": {
     "dev": "node index.js"
+  },
+  "dependencies": {
+    "edge.js": "^6.2.1"
   }
 }

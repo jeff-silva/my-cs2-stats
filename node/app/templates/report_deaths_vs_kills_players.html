@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Report Deaths vs Kills Players</title>
+  </head>
+  <body>
+    <table border="1">
+      <thead>
+        <tr>
+          <th>Player</th>
+          <th>Killed By Me</th>
+          <th>... With Knife</th>
+          <th>Killed Me</th>
+          <th>... With Knife</th>
+        </tr>
+      </thead>
+      <tbody>
+        @each(item in data)
+        <tr>
+          <td>{{ item.player }}</td>
+          <td style="text-align: right">{{ item.killTotals }}</td>
+          <td style="text-align: right">{{ item.killKnifeTotals }}</td>
+          <td style="text-align: right">{{ item.killedByTotals }}</td>
+          <td style="text-align: right">{{ item.killedByKnifeTotals }}</td>
+        </tr>
+        @end
+      </tbody>
+    </table>
+  </body>
+</html>

@@ -1,8 +1,10 @@
 import path from "path";
 import fs from "fs";
+import { Edge } from "edge.js";
 
 const jsonStringify = (data) => {
   return JSON.stringify(data);
+  // return JSON.stringify(data, null, 2);
 };
 
 const generateTimelines = async () => {
@@ -97,9 +99,27 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
     }
   });
 
+  const data = playersMap.toData();
+
   fs.promises.writeFile(
     path.join(process.cwd(), "assets", "report_deaths_vs_kills_players.json"),
-    jsonStringify(playersMap.toData()),
+    jsonStringify(data),
+    "utf-8"
+  );
+
+  const template = await fs.promises.readFile(
+    path.join(
+      process.cwd(),
+      "templates",
+      "report_deaths_vs_kills_players.html"
+    ),
+    "utf-8"
+  );
+
+  const rendered = await Edge.create().renderRaw(template, { data });
+  fs.promises.writeFile(
+    path.join(process.cwd(), "pages", "report_deaths_vs_kills_players.html"),
+    rendered,
     "utf-8"
   );
 };
