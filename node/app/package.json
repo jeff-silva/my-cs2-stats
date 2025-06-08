@@ -1,0 +1,8 @@
+{
+  "name": "cs2",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "dev": "node index.js"
+  }
+}

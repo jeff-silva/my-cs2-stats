@@ -1,0 +1,6 @@
+services:
+  node:
+    build: ./node/
+    volumes:
+      - ./node/app:/app
+      - "${TIMELINES_DIR}:/app/volumes/timelines"
