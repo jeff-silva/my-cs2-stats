@@ -28,5 +28,38 @@
   </tbody>
 </table>
 
+<!-- Vue -->
+<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+
+<!-- VueUse -->
+<script src="https://unpkg.com/@vueuse/shared"></script>
+<script src="https://unpkg.com/@vueuse/core"></script>
+
+<!-- Vuetify -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vuetify@3.8.2/dist/vuetify.min.css" />
+<script src="https://cdn.jsdelivr.net/npm/vuetify@3.8.2/dist/vuetify.min.js"></script>
+
+<script>
+const vuetifyCreateConfig = () => {
+  return Vuetify.createVuetify({
+    icons: {
+      defaultSet: "main",
+      sets: {
+        main: {
+          component: (props) => {
+            return h("img", {
+              src: `https://api.iconify.design/${props.icon}.svg`,
+              style: {
+                width: (props.size || 24) + "px",
+                height: (props.size || 24) + "px",
+              },
+            });
+          },
+        },
+      },
+    },
+  });
+};
+</script>
   </body>
 </html>
