@@ -96,6 +96,7 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
         return { player, ...attrs };
       });
 
+      data.sort((a, b) => a.player.localeCompare(b.player));
       return data;
     }
   })();
@@ -107,19 +108,19 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
 
     if (entry.title.startsWith("You killed")) {
       const player = entry.title.replace("You killed ", "");
-      playersMap.add(player, "killTotals");
+      playersMap.add(player, "killedByMeTotals");
 
       if (entry.description == "with the Knife") {
-        playersMap.add(player, "killKnifeTotals");
+        playersMap.add(player, "killedByMeKnifeTotals");
       }
     }
 
     if (entry.title.startsWith("You were killed by ")) {
       const player = entry.title.replace("You were killed by ", "");
-      playersMap.add(player, "killedByTotals");
+      playersMap.add(player, "killedMeTotals");
 
       if (entry.description == "with the Knife") {
-        playersMap.add(player, "killedByKnifeTotals");
+        playersMap.add(player, "killedMeKnifeTotals");
       }
     }
   });

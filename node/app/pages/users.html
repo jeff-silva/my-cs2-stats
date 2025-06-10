@@ -1,36 +1,121 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Usuários</title>
+    <title>App | Users</title>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/handsontable/dist/handsontable.full.min.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable/styles/handsontable.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/handsontable/styles/ht-theme-main.min.css" />
+
+    <style>
+      [test],
+      [test] * {
+        outline: solid 1px red !important;
+      }
+
+      *::-webkit-scrollbar {
+        width: 14px;
+        height: 14px;
+      }
+
+      *::-webkit-scrollbar-track {
+        background: transparent;
+      }
+
+      *::-webkit-scrollbar-thumb {
+        border: 4px solid rgba(0, 0, 0, 0);
+        background-clip: padding-box;
+        background-color: #7f7f7f44;
+        border-radius: 10px;
+        cursor: pointer;
+      }
+    </style>
   </head>
-  <body><table border="1">
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Page</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Index</td>
-      <td><a href="index.html">View</a></td>
-    </tr>
-    <tr>
-      <td>Users</td>
-      <td><a href="users.html">View</a></td>
-    </tr>
-    <tr>
-      <td>Deaths vs Kills Players</td>
-      <td><a href="report_deaths_vs_kills_players.html">View</a></td>
-    </tr>
-  </tbody>
-</table>
 
-    <br />
+  <body>
+    <div class="h-screen flex">
+      <div class="h-screen hidden lg:block" style="width: 300px">
+        <div
+          class="h-screen flex flex-col flex-grow overflow-y-auto bg-slate-100"
+        >
+          <div class="flex flex-col flex-1 px-3 mt-6">
+            <div class="space-y-4">
+              <nav class="flex-1 space-y-2">
+                <a
+                  href="index.html"
+                  class="flex items-center px-4 py-2.5 text-sm font-medium transition-all duration-200 rounded-lg group"
+                >
+                  <img
+                    src="https://api.iconify.design/material-symbols:other-houses-outline.svg"
+                    alt=""
+                    class="w-6 h-6 me-3"
+                  />
+                  Home
+                </a>
+                <a
+                  href="report_deaths_vs_kills_players.html"
+                  class="flex items-center px-4 py-2.5 text-sm font-medium transition-all duration-200 rounded-lg group"
+                >
+                  <img
+                    src="https://api.iconify.design/material-symbols:other-houses-outline.svg"
+                    alt=""
+                    class="w-6 h-6 me-3"
+                  />
+                  Death vs Kilss Players
+                </a>
+                <a
+                  href="users.html"
+                  class="flex items-center px-4 py-2.5 text-sm font-medium transition-all duration-200 rounded-lg group"
+                >
+                  <img
+                    src="https://api.iconify.design/material-symbols:other-houses-outline.svg"
+                    alt=""
+                    class="w-6 h-6 me-3"
+                  />
+                  Users
+                </a>
+              </nav>
+            </div>
 
-    <table border="1">
+            <div class="pb-4 mt-20">
+              <button
+                type="button"
+                class="flex items-center justify-between w-full px-4 py-3 text-sm font-medium text-gray-900 transition-all duration-200 rounded-lg hover:bg-gray-100"
+              >
+                <img
+                  class="flex-shrink-0 object-cover w-6 h-6 mr-3 rounded-full"
+                  src="https://landingfoliocom.imgix.net/store/collection/clarity-dashboard/images/vertical-menu/2/avatar-male.png"
+                  alt=""
+                />
+                Jacob Jones
+                <svg
+                  class="w-5 h-5 ml-auto"
+                  xmlns="http://www.w3.org/2000/svg"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  stroke-width="2"
+                >
+                  <path
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    d="M8 9l4-4 4 4m0 6l-4 4-4-4"
+                  />
+                </svg>
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="h-screen overflow-auto p-3 grow">
+            <table border="1">
       <thead>
         <tr>
           <th>Username</th>
@@ -38,36 +123,6 @@
         </tr>
       </thead>
       <tbody>
-        <tr>
-          <td>j4mvit</td>
-          <td>
-            <a href="https://steamcommunity.com/profiles/76561198313849490" target="_blank">Profile</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Análise</td>
-          <td>
-            <a href="https://steamcommunity.com/search/users/#text=An%C3%A1lise" target="_blank">Search</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Baranhaaa SKINS</td>
-          <td>
-            <a href="https://steamcommunity.com/search/users/#text=Baranhaaa%20SKINS" target="_blank">Search</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Tornland</td>
-          <td>
-            <a href="https://steamcommunity.com/search/users/#text=Tornland" target="_blank">Search</a>
-          </td>
-        </tr>
-        <tr>
-          <td>✪ MM ®</td>
-          <td>
-            <a href="https://steamcommunity.com/search/users/#text=%E2%9C%AA%20MM%20%C2%AE" target="_blank">Search</a>
-          </td>
-        </tr>
         <tr>
           <td>Hollyyyyyy</td>
           <td>
@@ -119,7 +174,7 @@
         <tr>
           <td>𝕵𝖍𝖔𝖓𝖞</td>
           <td>
-            <a href="https://steamcommunity.com/profiles/pato855" target="_blank">Profile</a>
+            <a href="https://steamcommunity.com/search/users/#text=%F0%9D%95%B5%F0%9D%96%8D%F0%9D%96%94%F0%9D%96%93%F0%9D%96%9E" target="_blank">Search</a>
           </td>
         </tr>
         <tr>
@@ -143,13 +198,13 @@
         <tr>
           <td>MOLESLEY ⛧</td>
           <td>
-            <a href="https://steamcommunity.com/profiles/76561198272968206" target="_blank">Profile</a>
+            <a href="https://steamcommunity.com/search/users/#text=MOLESLEY%20%E2%9B%A7" target="_blank">Search</a>
           </td>
         </tr>
         <tr>
           <td>MeLeKa</td>
           <td>
-            <a href="https://steamcommunity.com/profiles/76561199066786537" target="_blank">Profile</a>
+            <a href="https://steamcommunity.com/search/users/#text=MeLeKa" target="_blank">Search</a>
           </td>
         </tr>
         <tr>
@@ -173,7 +228,91 @@
         <tr>
           <td>RodrigoMPB</td>
           <td>
-            <a href="https://steamcommunity.com/profiles/76561198171261135" target="_blank">Profile</a>
+            <a href="https://steamcommunity.com/search/users/#text=RodrigoMPB" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Getaway</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Getaway" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Rex</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Rex" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Kask</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Kask" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Voltzmann</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Voltzmann" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>guicasca</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=guicasca" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Sas</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Sas" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Solman</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Solman" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Strapper</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Strapper" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Romanov</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Romanov" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Arno</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Arno" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Vulgo_Diamante</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Vulgo_Diamante" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Mae</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Mae" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>Krikey</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=Krikey" target="_blank">Search</a>
+          </td>
+        </tr>
+        <tr>
+          <td>caioaesanto</td>
+          <td>
+            <a href="https://steamcommunity.com/search/users/#text=caioaesanto" target="_blank">Search</a>
           </td>
         </tr>
         <tr>
@@ -339,24 +478,6 @@
           </td>
         </tr>
         <tr>
-          <td>Strapper</td>
-          <td>
-            <a href="https://steamcommunity.com/search/users/#text=Strapper" target="_blank">Search</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Mae</td>
-          <td>
-            <a href="https://steamcommunity.com/search/users/#text=Mae" target="_blank">Search</a>
-          </td>
-        </tr>
-        <tr>
-          <td>Arno</td>
-          <td>
-            <a href="https://steamcommunity.com/search/users/#text=Arno" target="_blank">Search</a>
-          </td>
-        </tr>
-        <tr>
           <td>mephis</td>
           <td>
             <a href="https://steamcommunity.com/search/users/#text=mephis" target="_blank">Search</a>
@@ -425,7 +546,7 @@
         <tr>
           <td>Debinha</td>
           <td>
-            <a href="https://steamcommunity.com/profiles/76561199118942262" target="_blank">Profile</a>
+            <a href="https://steamcommunity.com/search/users/#text=Debinha" target="_blank">Search</a>
           </td>
         </tr>
         <tr>
@@ -449,7 +570,7 @@
         <tr>
           <td>sr.jobas</td>
           <td>
-            <a href="https://steamcommunity.com/profiles/76561198252075256" target="_blank">Profile</a>
+            <a href="https://steamcommunity.com/search/users/#text=sr.jobas" target="_blank">Search</a>
           </td>
         </tr>
         <tr>
@@ -514,38 +635,7 @@
         </tr>
       </tbody>
     </table>
-<!-- Vue -->
-<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
-
-<!-- VueUse -->
-<script src="https://unpkg.com/@vueuse/shared"></script>
-<script src="https://unpkg.com/@vueuse/core"></script>
-
-<!-- Vuetify -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/vuetify@3.8.2/dist/vuetify.min.css" />
-<script src="https://cdn.jsdelivr.net/npm/vuetify@3.8.2/dist/vuetify.min.js"></script>
-
-<script>
-const vuetifyCreateConfig = () => {
-  return Vuetify.createVuetify({
-    icons: {
-      defaultSet: "main",
-      sets: {
-        main: {
-          component: (props) => {
-            return h("img", {
-              src: `https://api.iconify.design/${props.icon}.svg`,
-              style: {
-                width: (props.size || 24) + "px",
-                height: (props.size || 24) + "px",
-              },
-            });
-          },
-        },
-      },
-    },
-  });
-};
-</script>
+      </div>
+    </div>
   </body>
 </html>

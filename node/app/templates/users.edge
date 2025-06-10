@@ -1,15 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Usuários</title>
-    @include('partials/assets')
-  </head>
-  <body>
-    @include('partials/reports')
-    <br />
-
+@layout.app({ title: "Users" })
+  @slot('main')
     <table border="1">
       <thead>
         <tr>
@@ -32,9 +22,5 @@
         @end
       </tbody>
     </table>
-
-    <script>
-      //
-    </script>
-  </body>
-</html>
+  @endslot
+@end

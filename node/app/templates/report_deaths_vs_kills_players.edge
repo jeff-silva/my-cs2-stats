@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Report Deaths vs Kills Players</title>
-  </head>
-  <body>
-    @include('partials/reports')
-    <br />
-
-    <table border="1">
-      <thead>
+@layout.app({ title: "Report: Death vs Kills Players" })
+  @slot('main')
+    {{--  <table class="table-auto w-full">
+      <thead class="outline outline-slate-200 bg-slate-100">
         <tr>
           <th rowspan="2">Player</th>
           <th colspan="2">Killed By Me</th>
@@ -26,16 +17,47 @@
       <tbody>
         @each(item in data)
         <tr>
-          <td>{{ item.player }}</td>
-          <td style="text-align: right">{{ item.killTotals }}</td>
-          <td style="text-align: right">{{ item.killKnifeTotals }}</td>
-          <td style="text-align: right">{{ item.killedByTotals }}</td>
-          <td style="text-align: right">{{ item.killedByKnifeTotals }}</td>
+          <td class="outline outline-slate-200 p-1">{{ item.player }}</td>
+          <td class="outline outline-slate-200 p-1 text-right">{{ item.killTotals }}</td>
+          <td class="outline outline-slate-200 p-1 text-right">{{ item.killKnifeTotals }}</td>
+          <td class="outline outline-slate-200 p-1 text-right">{{ item.killedByTotals }}</td>
+          <td class="outline outline-slate-200 p-1 text-right">{{ item.killedByKnifeTotals }}</td>
         </tr>
         @end
       </tbody>
-    </table>
+    </table>  --}}
 
-    @include('partials/assets')
-  </body>
-</html>
+    <div id="example"></div>
+    <script>
+      const container = document.querySelector('#example');
+      const hot = new Handsontable(container, {
+        themeName: 'ht-theme-main-dark',
+        rowHeaders: true,
+        // colHeaders: ['Player', 'Gun', 'Knife', 'Gun', 'Knife'],
+        // colWidths: [null, 100, 100, 100, 100],
+        columnSorting: true,
+        nestedHeaders: [
+          [
+            { label: 'Player', rowspan: 2, width: 200 },
+            { label: 'Killed By Me', colspan: 2 },
+            { label: 'Killed Me', colspan: 2 },
+          ],
+          ['', 'Gun', 'Knife', 'Gun', 'Knife'],
+        ],
+         columns: [
+          { data: 'player' },
+          { data: 'killedByMeTotals' },
+          { data: 'killedByMeKnifeTotals' },
+          { data: 'killedMeTotals' },
+          { data: 'killedMeKnifeTotals' },
+        ],
+        width: '100%',
+        height: '95vh',
+        stretchH: 'all',
+        search: true,
+        licenseKey: 'non-commercial-and-evaluation',
+        data: {{{  JSON.stringify(data)  }}},
+      });
+    </script>
+  @endslot
+@end
