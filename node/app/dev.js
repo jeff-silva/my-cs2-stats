@@ -112,6 +112,10 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
 
       if (entry.description == "with the Knife") {
         playersMap.add(player, "killedByMeKnifeTotals");
+      } else if (entry.description.includes("Zeus")) {
+        playersMap.add(player, "killedByMeZeusTotals");
+      } else {
+        playersMap.add(player, "killedByMeGunTotals");
       }
     }
 
@@ -121,8 +125,18 @@ const reportDeathsVsKillsPlayers = async (timelines) => {
 
       if (entry.description == "with the Knife") {
         playersMap.add(player, "killedMeKnifeTotals");
+      } else if (entry.description.includes("Zeus")) {
+        playersMap.add(player, "killedMeZeusTotals");
+      } else {
+        playersMap.add(player, "killedMeGunTotals");
       }
     }
+  });
+
+  Object.values(playersMap.players).map((player) => {
+    player.kdr = parseFloat(
+      (player.killedByMeTotals / player.killedMeTotals || 0).toFixed(2)
+    );
   });
 
   const data = playersMap.toData();
