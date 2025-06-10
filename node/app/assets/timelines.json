@@ -1,840 +1,5 @@
 [
   {
-    "id": "timeline_73020250610_161017",
-    "content": {
-      "daterecorded": "1749571817",
-      "starttime": "0",
-      "entries": [
-        {
-          "id": "84",
-          "time": "23004",
-          "type": "gamemode",
-          "mode": 3
-        },
-        {
-          "id": "85",
-          "time": "32284",
-          "type": "gamemode",
-          "mode": 3
-        },
-        {
-          "id": "86",
-          "time": "57793",
-          "type": "gamemode",
-          "mode": 4
-        },
-        {
-          "id": "87",
-          "time": "60146",
-          "type": "event",
-          "title": "You killed yourself",
-          "description": "",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "88",
-          "time": "61200",
-          "type": "event",
-          "title": "You killed yourself",
-          "description": "",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "89",
-          "time": "63246",
-          "type": "event",
-          "title": "You killed yourself",
-          "description": "",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "90",
-          "time": "64411",
-          "type": "event",
-          "title": "You killed yourself",
-          "description": "",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "91",
-          "time": "64512",
-          "type": "gamemode",
-          "mode": 1
-        },
-        {
-          "id": "92",
-          "time": "79355",
-          "type": "phase",
-          "duration": "286455",
-          "tags": [
-            {
-              "name": "Classic",
-              "icon": "cs2_logo",
-              "group": "Mode",
-              "priority": 500
-            },
-            {
-              "name": "Pool Day",
-              "icon": "map_icon_ar_pool_day",
-              "group": "Map",
-              "priority": 500
-            }
-          ]
-        },
-        {
-          "id": "93",
-          "time": "95645",
-          "type": "event",
-          "title": "You were killed by DJ MADMAX 02",
-          "description": "with the G3SG1",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "94",
-          "time": "91082",
-          "type": "event",
-          "title": "You killed DJ Q.R.A DIREITCHA",
-          "description": "with the G3SG1",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "95",
-          "time": "101894",
-          "type": "event",
-          "title": "Double kill",
-          "description": "You killed DJ MADMAX 02 and DJ MADMAX 02",
-          "icon": "cs2_double_kill",
-          "priority": 1000,
-          "duration": "9000",
-          "possible_clip": 3
-        },
-        {
-          "id": "96",
-          "time": "143666",
-          "type": "event",
-          "title": "You killed Durateston™",
-          "description": "with the AWP",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "97",
-          "time": "148978",
-          "type": "event",
-          "title": "You were killed by Durateston™",
-          "description": "with the Galil AR",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "98",
-          "time": "152215",
-          "type": "event",
-          "title": "Double kill",
-          "description": "You killed Rokko and DJ Q.R.A DIREITCHA with the Galil AR",
-          "icon": "cs2_double_kill",
-          "priority": 1000,
-          "duration": "8234",
-          "possible_clip": 3
-        },
-        {
-          "id": "99",
-          "time": "171636",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the M4A4",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "100",
-          "time": "168038",
-          "type": "event",
-          "title": "You killed Godoy",
-          "description": "with the Zeus x27",
-          "icon": "cs2_taser_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "101",
-          "time": "178062",
-          "type": "event",
-          "title": "You killed Rokko",
-          "description": "with the M4A4",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "102",
-          "time": "187985",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the Zeus x27",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "103",
-          "time": "185026",
-          "type": "event",
-          "title": "You killed Rokko",
-          "description": "with the Zeus x27",
-          "icon": "cs2_taser_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "104",
-          "time": "193788",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the M4A1-S",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "105",
-          "time": "212187",
-          "type": "event",
-          "title": "You killed Rokko",
-          "description": "with the AK-47",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "106",
-          "time": "218013",
-          "type": "event",
-          "title": "You were killed by Durateston™",
-          "description": "with the M4A4",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "107",
-          "time": "233664",
-          "type": "event",
-          "title": "You were killed by DJ MADMAX 02",
-          "description": "with the MAC-10",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "108",
-          "time": "224768",
-          "type": "event",
-          "title": "Double kill",
-          "description": "You killed DJ MADMAX 02 and DJ Q.R.A DIREITCHA",
-          "icon": "cs2_double_kill",
-          "priority": 1000,
-          "duration": "7796",
-          "possible_clip": 3
-        },
-        {
-          "id": "109",
-          "time": "246832",
-          "type": "event",
-          "title": "You were killed by DJ MADMAX 02",
-          "description": "with the Negev",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "110",
-          "time": "240139",
-          "type": "event",
-          "title": "Double kill",
-          "description": "You killed Durateston™ and DJ MADMAX 02 with the Knife",
-          "icon": "cs2_double_kill",
-          "priority": 1000,
-          "duration": "5437",
-          "possible_clip": 3
-        },
-        {
-          "id": "111",
-          "time": "250480",
-          "type": "event",
-          "title": "You were killed by Rokko",
-          "description": "with the Negev",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "112",
-          "time": "263038",
-          "type": "event",
-          "title": "You were killed by DJ MADMAX 02",
-          "description": "with the MAC-10",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "113",
-          "time": "262411",
-          "type": "event",
-          "title": "You killed Godoy",
-          "description": "with the Zeus x27",
-          "icon": "cs2_taser_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "114",
-          "time": "274456",
-          "type": "event",
-          "title": "You were killed by Rokko",
-          "description": "with the Zeus x27",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "115",
-          "time": "281965",
-          "type": "event",
-          "title": "You killed Titio calibre .50",
-          "description": "with the MAC-10",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "116",
-          "time": "289105",
-          "type": "event",
-          "title": "You killed Rokko",
-          "description": "with the UMP-45",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "117",
-          "time": "297082",
-          "type": "event",
-          "title": "You were killed by DJ MADMAX 02",
-          "description": "with the PP-Bizon",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "118",
-          "time": "304107",
-          "type": "event",
-          "title": "You killed DJ MADMAX 02",
-          "description": "with the UMP-45",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "119",
-          "time": "334249",
-          "type": "gamemode",
-          "mode": 4
-        },
-        {
-          "id": "120",
-          "time": "341111",
-          "type": "gamemode",
-          "mode": 1
-        },
-        {
-          "id": "121",
-          "time": "353376",
-          "type": "event",
-          "title": "Multi kill",
-          "description": "You killed Dragomir, Durateston™, and K",
-          "icon": "cs2_multi_kill",
-          "priority": 1000,
-          "duration": "8609",
-          "possible_clip": 3
-        },
-        {
-          "id": "122",
-          "time": "365810",
-          "type": "phase",
-          "duration": "418111",
-          "tags": [
-            {
-              "name": "Classic",
-              "icon": "cs2_logo",
-              "group": "Mode",
-              "priority": 500
-            },
-            {
-              "name": "Shoots",
-              "icon": "map_icon_ar_shoots",
-              "group": "Map",
-              "priority": 500
-            }
-          ]
-        },
-        {
-          "id": "123",
-          "time": "367494",
-          "type": "event",
-          "title": "Double kill",
-          "description": "You killed K and CARECA CABELUDO with the G3SG1",
-          "icon": "cs2_double_kill",
-          "priority": 1000,
-          "duration": "8281",
-          "possible_clip": 3
-        },
-        {
-          "id": "124",
-          "time": "388428",
-          "type": "event",
-          "title": "You killed K",
-          "description": "with the AWP",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "125",
-          "time": "401309",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the AUG",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "126",
-          "time": "396854",
-          "type": "event",
-          "title": "You killed K",
-          "description": "with the AWP",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "127",
-          "time": "410189",
-          "type": "event",
-          "title": "You killed K",
-          "description": "with the AUG",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "128",
-          "time": "416423",
-          "type": "event",
-          "title": "You were killed by K",
-          "description": "with the G3SG1",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "129",
-          "time": "415894",
-          "type": "event",
-          "title": "You killed Titio calibre .50",
-          "description": "with the AUG",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "130",
-          "time": "427673",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the M4A1-S",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "131",
-          "time": "426633",
-          "type": "event",
-          "title": "You killed K",
-          "description": "with the AK-47",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "132",
-          "time": "432159",
-          "type": "event",
-          "title": "You killed Godoy",
-          "description": "with the AK-47",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "133",
-          "time": "437705",
-          "type": "event",
-          "title": "You killed CARECA CABELUDO",
-          "description": "with the M4A1-S",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "134",
-          "time": "450706",
-          "type": "event",
-          "title": "Double kill",
-          "description": "You killed CARECA CABELUDO and Godoy with the Knife",
-          "icon": "cs2_double_kill",
-          "priority": 1000,
-          "duration": "5109",
-          "possible_clip": 3
-        },
-        {
-          "id": "135",
-          "time": "470350",
-          "type": "event",
-          "title": "You were killed by CARECA CABELUDO",
-          "description": "with the Zeus x27",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "136",
-          "time": "483370",
-          "type": "event",
-          "title": "You were killed by Makas",
-          "description": "with the G3SG1",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "137",
-          "time": "489073",
-          "type": "event",
-          "title": "You were killed by Durateston™",
-          "description": "with the AK-47",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "138",
-          "time": "506607",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the UMP-45",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "139",
-          "time": "547152",
-          "type": "event",
-          "title": "You were killed by Durateston™",
-          "description": "with the AK-47",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "140",
-          "time": "562364",
-          "type": "event",
-          "title": "You were killed by CARECA CABELUDO",
-          "description": "with the AK-47",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "141",
-          "time": "575197",
-          "type": "event",
-          "title": "You were killed by Makas",
-          "description": "with the AUG",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "142",
-          "time": "586351",
-          "type": "event",
-          "title": "You killed CARECA CABELUDO",
-          "description": "with the M249",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "143",
-          "time": "592224",
-          "type": "event",
-          "title": "You were killed by CARECA CABELUDO",
-          "description": "with the M4A1-S",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "144",
-          "time": "596409",
-          "type": "event",
-          "title": "You were killed by Makas",
-          "description": "with the AK-47",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "145",
-          "time": "608402",
-          "type": "event",
-          "title": "You were killed by Durateston™",
-          "description": "with the M249",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "146",
-          "time": "618072",
-          "type": "event",
-          "title": "You killed Makas",
-          "description": "with the M249",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "147",
-          "time": "626380",
-          "type": "event",
-          "title": "You were killed by andergonfre567",
-          "description": "with the AUG",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "148",
-          "time": "630706",
-          "type": "event",
-          "title": "You were killed by CARECA CABELUDO",
-          "description": "with the SG 553",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "149",
-          "time": "635192",
-          "type": "event",
-          "title": "You killed CARECA CABELUDO",
-          "description": "with the UMP-45",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "150",
-          "time": "642933",
-          "type": "event",
-          "title": "You were killed by Makas",
-          "description": "with the SG 553",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "151",
-          "time": "657729",
-          "type": "event",
-          "title": "You killed CARECA CABELUDO",
-          "description": "with the UMP-45",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "152",
-          "time": "662720",
-          "type": "event",
-          "title": "Double kill",
-          "description": "You killed Makas and Makas with the P90",
-          "icon": "cs2_double_kill",
-          "priority": 1000,
-          "duration": "7453",
-          "possible_clip": 3
-        },
-        {
-          "id": "153",
-          "time": "694067",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the USP-S",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "154",
-          "time": "692488",
-          "type": "event",
-          "title": "You killed Makas",
-          "description": "with the MP9",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "155",
-          "time": "707340",
-          "type": "event",
-          "title": "You were killed by Makas",
-          "description": "with the SSG 08",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "156",
-          "time": "723519",
-          "type": "event",
-          "title": "You were killed by Godoy",
-          "description": "with the MAG-7",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "157",
-          "time": "734061",
-          "type": "event",
-          "title": "You killed Godoy",
-          "description": "with the MP9",
-          "icon": "cs2_gun_kill",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 2
-        },
-        {
-          "id": "158",
-          "time": "754836",
-          "type": "event",
-          "title": "You were killed by Makas",
-          "description": "with the Five-SeveN",
-          "icon": "cs2_death",
-          "priority": 1000,
-          "duration": "0",
-          "possible_clip": 1
-        },
-        {
-          "id": "159",
-          "time": "782724",
-          "type": "gamemode",
-          "mode": 3
-        },
-        {
-          "id": "160",
-          "time": "783921",
-          "type": "gamemode",
-          "mode": 3
-        }
-      ],
-      "endtime": "793395"
-    }
-  },
-  {
     "id": "timeline_73020250610_083229",
     "content": {
       "daterecorded": "1749544349",
@@ -1684,6 +849,841 @@
         }
       ],
       "endtime": "731021"
+    }
+  },
+  {
+    "id": "timeline_73020250610_161017",
+    "content": {
+      "daterecorded": "1749571817",
+      "starttime": "0",
+      "entries": [
+        {
+          "id": "84",
+          "time": "23004",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "85",
+          "time": "32284",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "86",
+          "time": "57793",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "87",
+          "time": "60146",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "88",
+          "time": "61200",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "89",
+          "time": "63246",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "90",
+          "time": "64411",
+          "type": "event",
+          "title": "You killed yourself",
+          "description": "",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "91",
+          "time": "64512",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "92",
+          "time": "79355",
+          "type": "phase",
+          "duration": "286455",
+          "tags": [
+            {
+              "name": "Classic",
+              "icon": "cs2_logo",
+              "group": "Mode",
+              "priority": 500
+            },
+            {
+              "name": "Pool Day",
+              "icon": "map_icon_ar_pool_day",
+              "group": "Map",
+              "priority": 500
+            }
+          ]
+        },
+        {
+          "id": "93",
+          "time": "95645",
+          "type": "event",
+          "title": "You were killed by DJ MADMAX 02",
+          "description": "with the G3SG1",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "94",
+          "time": "91082",
+          "type": "event",
+          "title": "You killed DJ Q.R.A DIREITCHA",
+          "description": "with the G3SG1",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "95",
+          "time": "101894",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed DJ MADMAX 02 and DJ MADMAX 02",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "9000",
+          "possible_clip": 3
+        },
+        {
+          "id": "96",
+          "time": "143666",
+          "type": "event",
+          "title": "You killed Durateston™",
+          "description": "with the AWP",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "97",
+          "time": "148978",
+          "type": "event",
+          "title": "You were killed by Durateston™",
+          "description": "with the Galil AR",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "98",
+          "time": "152215",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Rokko and DJ Q.R.A DIREITCHA with the Galil AR",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "8234",
+          "possible_clip": 3
+        },
+        {
+          "id": "99",
+          "time": "171636",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the M4A4",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "100",
+          "time": "168038",
+          "type": "event",
+          "title": "You killed Godoy",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "101",
+          "time": "178062",
+          "type": "event",
+          "title": "You killed Rokko",
+          "description": "with the M4A4",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "102",
+          "time": "187985",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "103",
+          "time": "185026",
+          "type": "event",
+          "title": "You killed Rokko",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "104",
+          "time": "193788",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the M4A1-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "105",
+          "time": "212187",
+          "type": "event",
+          "title": "You killed Rokko",
+          "description": "with the AK-47",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "106",
+          "time": "218013",
+          "type": "event",
+          "title": "You were killed by Durateston™",
+          "description": "with the M4A4",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "107",
+          "time": "233664",
+          "type": "event",
+          "title": "You were killed by DJ MADMAX 02",
+          "description": "with the MAC-10",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "108",
+          "time": "224768",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed DJ MADMAX 02 and DJ Q.R.A DIREITCHA",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "7796",
+          "possible_clip": 3
+        },
+        {
+          "id": "109",
+          "time": "246832",
+          "type": "event",
+          "title": "You were killed by DJ MADMAX 02",
+          "description": "with the Negev",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "110",
+          "time": "240139",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Durateston™ and DJ MADMAX 02 with the Knife",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "5437",
+          "possible_clip": 3
+        },
+        {
+          "id": "111",
+          "time": "250480",
+          "type": "event",
+          "title": "You were killed by Rokko",
+          "description": "with the Negev",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "112",
+          "time": "263038",
+          "type": "event",
+          "title": "You were killed by DJ MADMAX 02",
+          "description": "with the MAC-10",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "113",
+          "time": "262411",
+          "type": "event",
+          "title": "You killed Godoy",
+          "description": "with the Zeus x27",
+          "icon": "cs2_taser_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "114",
+          "time": "274456",
+          "type": "event",
+          "title": "You were killed by Rokko",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "115",
+          "time": "281965",
+          "type": "event",
+          "title": "You killed Titio calibre .50",
+          "description": "with the MAC-10",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "116",
+          "time": "289105",
+          "type": "event",
+          "title": "You killed Rokko",
+          "description": "with the UMP-45",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "117",
+          "time": "297082",
+          "type": "event",
+          "title": "You were killed by DJ MADMAX 02",
+          "description": "with the PP-Bizon",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "118",
+          "time": "304107",
+          "type": "event",
+          "title": "You killed DJ MADMAX 02",
+          "description": "with the UMP-45",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "119",
+          "time": "334249",
+          "type": "gamemode",
+          "mode": 4
+        },
+        {
+          "id": "120",
+          "time": "341111",
+          "type": "gamemode",
+          "mode": 1
+        },
+        {
+          "id": "121",
+          "time": "353376",
+          "type": "event",
+          "title": "Multi kill",
+          "description": "You killed Dragomir, Durateston™, and K",
+          "icon": "cs2_multi_kill",
+          "priority": 1000,
+          "duration": "8609",
+          "possible_clip": 3
+        },
+        {
+          "id": "122",
+          "time": "365810",
+          "type": "phase",
+          "duration": "418111",
+          "tags": [
+            {
+              "name": "Classic",
+              "icon": "cs2_logo",
+              "group": "Mode",
+              "priority": 500
+            },
+            {
+              "name": "Shoots",
+              "icon": "map_icon_ar_shoots",
+              "group": "Map",
+              "priority": 500
+            }
+          ]
+        },
+        {
+          "id": "123",
+          "time": "367494",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed K and CARECA CABELUDO with the G3SG1",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "8281",
+          "possible_clip": 3
+        },
+        {
+          "id": "124",
+          "time": "388428",
+          "type": "event",
+          "title": "You killed K",
+          "description": "with the AWP",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "125",
+          "time": "401309",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the AUG",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "126",
+          "time": "396854",
+          "type": "event",
+          "title": "You killed K",
+          "description": "with the AWP",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "127",
+          "time": "410189",
+          "type": "event",
+          "title": "You killed K",
+          "description": "with the AUG",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "128",
+          "time": "416423",
+          "type": "event",
+          "title": "You were killed by K",
+          "description": "with the G3SG1",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "129",
+          "time": "415894",
+          "type": "event",
+          "title": "You killed Titio calibre .50",
+          "description": "with the AUG",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "130",
+          "time": "427673",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the M4A1-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "131",
+          "time": "426633",
+          "type": "event",
+          "title": "You killed K",
+          "description": "with the AK-47",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "132",
+          "time": "432159",
+          "type": "event",
+          "title": "You killed Godoy",
+          "description": "with the AK-47",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "133",
+          "time": "437705",
+          "type": "event",
+          "title": "You killed CARECA CABELUDO",
+          "description": "with the M4A1-S",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "134",
+          "time": "450706",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed CARECA CABELUDO and Godoy with the Knife",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "5109",
+          "possible_clip": 3
+        },
+        {
+          "id": "135",
+          "time": "470350",
+          "type": "event",
+          "title": "You were killed by CARECA CABELUDO",
+          "description": "with the Zeus x27",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "136",
+          "time": "483370",
+          "type": "event",
+          "title": "You were killed by Makas",
+          "description": "with the G3SG1",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "137",
+          "time": "489073",
+          "type": "event",
+          "title": "You were killed by Durateston™",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "138",
+          "time": "506607",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the UMP-45",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "139",
+          "time": "547152",
+          "type": "event",
+          "title": "You were killed by Durateston™",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "140",
+          "time": "562364",
+          "type": "event",
+          "title": "You were killed by CARECA CABELUDO",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "141",
+          "time": "575197",
+          "type": "event",
+          "title": "You were killed by Makas",
+          "description": "with the AUG",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "142",
+          "time": "586351",
+          "type": "event",
+          "title": "You killed CARECA CABELUDO",
+          "description": "with the M249",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "143",
+          "time": "592224",
+          "type": "event",
+          "title": "You were killed by CARECA CABELUDO",
+          "description": "with the M4A1-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "144",
+          "time": "596409",
+          "type": "event",
+          "title": "You were killed by Makas",
+          "description": "with the AK-47",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "145",
+          "time": "608402",
+          "type": "event",
+          "title": "You were killed by Durateston™",
+          "description": "with the M249",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "146",
+          "time": "618072",
+          "type": "event",
+          "title": "You killed Makas",
+          "description": "with the M249",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "147",
+          "time": "626380",
+          "type": "event",
+          "title": "You were killed by andergonfre567",
+          "description": "with the AUG",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "148",
+          "time": "630706",
+          "type": "event",
+          "title": "You were killed by CARECA CABELUDO",
+          "description": "with the SG 553",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "149",
+          "time": "635192",
+          "type": "event",
+          "title": "You killed CARECA CABELUDO",
+          "description": "with the UMP-45",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "150",
+          "time": "642933",
+          "type": "event",
+          "title": "You were killed by Makas",
+          "description": "with the SG 553",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "151",
+          "time": "657729",
+          "type": "event",
+          "title": "You killed CARECA CABELUDO",
+          "description": "with the UMP-45",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "152",
+          "time": "662720",
+          "type": "event",
+          "title": "Double kill",
+          "description": "You killed Makas and Makas with the P90",
+          "icon": "cs2_double_kill",
+          "priority": 1000,
+          "duration": "7453",
+          "possible_clip": 3
+        },
+        {
+          "id": "153",
+          "time": "694067",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the USP-S",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "154",
+          "time": "692488",
+          "type": "event",
+          "title": "You killed Makas",
+          "description": "with the MP9",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "155",
+          "time": "707340",
+          "type": "event",
+          "title": "You were killed by Makas",
+          "description": "with the SSG 08",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "156",
+          "time": "723519",
+          "type": "event",
+          "title": "You were killed by Godoy",
+          "description": "with the MAG-7",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "157",
+          "time": "734061",
+          "type": "event",
+          "title": "You killed Godoy",
+          "description": "with the MP9",
+          "icon": "cs2_gun_kill",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 2
+        },
+        {
+          "id": "158",
+          "time": "754836",
+          "type": "event",
+          "title": "You were killed by Makas",
+          "description": "with the Five-SeveN",
+          "icon": "cs2_death",
+          "priority": 1000,
+          "duration": "0",
+          "possible_clip": 1
+        },
+        {
+          "id": "159",
+          "time": "782724",
+          "type": "gamemode",
+          "mode": 3
+        },
+        {
+          "id": "160",
+          "time": "783921",
+          "type": "gamemode",
+          "mode": 3
+        }
+      ],
+      "endtime": "793395"
     }
   },
   {
