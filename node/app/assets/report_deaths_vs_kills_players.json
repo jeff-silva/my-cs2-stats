@@ -7,8 +7,8 @@
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -19,8 +19,8 @@
     "killedByMeGunTotals": 1,
     "kdr": 0.5,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -43,8 +43,20 @@
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
+    "killedMeKnifeTotals": 0
+  },
+  {
+    "player": "andergonfre567",
+    "killedMeTotals": 1,
+    "killedMeGunTotals": 1,
+    "kdr": 0,
+    "killedByMeTotals": 0,
+    "killedByMeGunTotals": 0,
+    "killedByMeKnifeTotals": 0,
+    "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -55,8 +67,8 @@
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -84,18 +96,6 @@
     "killedMeKnifeTotals": 0
   },
   {
-    "player": "BaianoSzz",
-    "killedByMeTotals": 3,
-    "killedByMeKnifeTotals": 1,
-    "killedMeTotals": 4,
-    "killedMeGunTotals": 4,
-    "killedByMeZeusTotals": 2,
-    "kdr": 0.75,
-    "killedByMeGunTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
     "player": "Bank",
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
@@ -103,8 +103,8 @@
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -115,8 +115,8 @@
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -148,10 +148,22 @@
     "killedByMeTotals": 1,
     "killedByMeKnifeTotals": 1,
     "kdr": 0,
+    "killedByMeGunTotals": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeGunTotals": 0,
+    "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedMeKnifeTotals": 0
+  },
+  {
+    "player": "CARECA CABELUDO",
+    "killedByMeTotals": 4,
+    "killedByMeGunTotals": 4,
+    "killedMeTotals": 4,
+    "killedMeZeusTotals": 1,
+    "killedMeGunTotals": 3,
+    "kdr": 1,
+    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
@@ -163,8 +175,8 @@
     "killedMeGunTotals": 3,
     "kdr": 0.67,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -199,8 +211,8 @@
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -216,6 +228,30 @@
     "killedByMeKnifeTotals": 0
   },
   {
+    "player": "DJ MADMAX 02",
+    "killedMeTotals": 5,
+    "killedMeGunTotals": 5,
+    "killedByMeTotals": 1,
+    "killedByMeGunTotals": 1,
+    "kdr": 0.2,
+    "killedByMeKnifeTotals": 0,
+    "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
+    "killedMeKnifeTotals": 0
+  },
+  {
+    "player": "DJ Q.R.A DIREITCHA",
+    "killedByMeTotals": 1,
+    "killedByMeGunTotals": 1,
+    "kdr": 0,
+    "killedMeTotals": 0,
+    "killedMeGunTotals": 0,
+    "killedByMeKnifeTotals": 0,
+    "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
+    "killedMeKnifeTotals": 0
+  },
+  {
     "player": "Dufray9",
     "killedMeTotals": 3,
     "killedMeGunTotals": 3,
@@ -223,20 +259,20 @@
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
-    "player": "DuhhH#44",
-    "killedMeTotals": 2,
-    "killedMeGunTotals": 2,
-    "killedByMeTotals": 3,
-    "killedByMeGunTotals": 3,
-    "kdr": 1.5,
+    "player": "Durateston™",
+    "killedByMeTotals": 1,
+    "killedByMeGunTotals": 1,
+    "killedMeTotals": 5,
+    "killedMeGunTotals": 5,
+    "kdr": 0.2,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -244,24 +280,12 @@
     "killedMeTotals": 1,
     "killedMeKnifeTotals": 1,
     "kdr": 0,
-    "killedMeGunTotals": 0,
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0
-  },
-  {
-    "player": "eu mermo",
-    "killedByMeTotals": 1,
-    "killedByMeKnifeTotals": 1,
-    "kdr": 0,
-    "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeGunTotals": 0,
-    "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
+    "killedMeZeusTotals": 0
   },
   {
     "player": "evertoncri2012",
@@ -271,20 +295,8 @@
     "killedMeTotals": 4,
     "killedMeGunTotals": 4,
     "kdr": 0.5,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "Farlow",
-    "killedMeTotals": 3,
-    "killedMeGunTotals": 3,
-    "kdr": 0,
-    "killedByMeTotals": 0,
-    "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -307,8 +319,20 @@
     "killedMeGunTotals": 1,
     "kdr": 2,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
+    "killedMeKnifeTotals": 0
+  },
+  {
+    "player": "Godoy",
+    "killedMeTotals": 8,
+    "killedMeGunTotals": 7,
+    "killedByMeTotals": 4,
+    "killedByMeZeusTotals": 2,
+    "killedMeZeusTotals": 1,
+    "killedByMeGunTotals": 2,
+    "kdr": 0.5,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -331,32 +355,8 @@
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "guizin da ppk turbinada",
-    "killedByMeTotals": 3,
-    "killedByMeGunTotals": 3,
-    "killedMeTotals": 2,
-    "killedMeGunTotals": 2,
-    "kdr": 1.5,
-    "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "Hollyyyyyy",
-    "killedMeTotals": 2,
-    "killedMeGunTotals": 2,
-    "killedByMeTotals": 2,
-    "killedByMeGunTotals": 2,
-    "kdr": 1,
-    "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -372,27 +372,15 @@
     "killedMeKnifeTotals": 0
   },
   {
-    "player": "𝕵𝖍𝖔𝖓𝖞",
-    "killedMeTotals": 3,
-    "killedMeGunTotals": 3,
-    "killedByMeTotals": 1,
-    "killedByMeZeusTotals": 1,
-    "kdr": 0.33,
-    "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
     "player": "K",
-    "killedByMeTotals": 1,
-    "killedByMeGunTotals": 1,
-    "kdr": 0,
-    "killedMeTotals": 0,
-    "killedMeGunTotals": 0,
+    "killedByMeTotals": 5,
+    "killedByMeGunTotals": 5,
+    "killedMeTotals": 1,
+    "killedMeGunTotals": 1,
+    "kdr": 5,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -403,8 +391,8 @@
     "killedMeGunTotals": 2,
     "kdr": 1,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -439,8 +427,8 @@
     "killedByMeGunTotals": 2,
     "kdr": 1,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -451,8 +439,8 @@
     "killedByMeGunTotals": 1,
     "kdr": 0.5,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -468,30 +456,6 @@
     "killedMeKnifeTotals": 0
   },
   {
-    "player": "Leozim",
-    "killedByMeTotals": 1,
-    "killedByMeGunTotals": 1,
-    "killedMeTotals": 1,
-    "killedMeGunTotals": 1,
-    "kdr": 1,
-    "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "Lieutenant",
-    "killedByMeTotals": 3,
-    "killedByMeGunTotals": 1,
-    "killedByMeKnifeTotals": 2,
-    "killedMeTotals": 1,
-    "killedMeGunTotals": 1,
-    "kdr": 3,
-    "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
     "player": "Lil Lucc",
     "killedMeTotals": 4,
     "killedMeGunTotals": 4,
@@ -499,8 +463,8 @@
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -516,18 +480,6 @@
     "killedMeKnifeTotals": 0
   },
   {
-    "player": "Lotus",
-    "killedMeTotals": 4,
-    "killedMeGunTotals": 4,
-    "killedByMeTotals": 1,
-    "killedByMeGunTotals": 1,
-    "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
     "player": "Luscas'",
     "killedMeTotals": 3,
     "killedMeGunTotals": 3,
@@ -535,8 +487,8 @@
     "killedByMeGunTotals": 2,
     "kdr": 0.67,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -547,8 +499,20 @@
     "killedMeGunTotals": 2,
     "killedByMeKnifeTotals": 2,
     "kdr": 2,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
+    "killedMeKnifeTotals": 0
+  },
+  {
+    "player": "Makas",
+    "killedMeTotals": 6,
+    "killedMeGunTotals": 6,
+    "killedByMeTotals": 2,
+    "killedByMeGunTotals": 2,
+    "kdr": 0.33,
+    "killedByMeKnifeTotals": 0,
+    "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -559,8 +523,8 @@
     "killedByMeGunTotals": 2,
     "kdr": 2,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -571,8 +535,8 @@
     "killedMeGunTotals": 3,
     "kdr": 0.67,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -595,8 +559,8 @@
     "killedMeGunTotals": 4,
     "kdr": 0.25,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -612,18 +576,6 @@
     "killedMeZeusTotals": 0
   },
   {
-    "player": "MeLeKa",
-    "killedMeTotals": 9,
-    "killedMeGunTotals": 6,
-    "killedByMeTotals": 2,
-    "killedByMeGunTotals": 1,
-    "killedMeZeusTotals": 3,
-    "killedByMeZeusTotals": 1,
-    "kdr": 0.22,
-    "killedByMeKnifeTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
     "player": "mephis",
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
@@ -631,8 +583,8 @@
     "killedMeGunTotals": 1,
     "kdr": 1,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -643,18 +595,6 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
-    "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "MOLESLEY ⛧",
-    "killedMeTotals": 8,
-    "killedMeGunTotals": 7,
-    "killedByMeTotals": 5,
-    "killedByMeGunTotals": 5,
-    "killedMeZeusTotals": 1,
-    "kdr": 0.63,
     "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
@@ -684,18 +624,6 @@
     "killedMeKnifeTotals": 0
   },
   {
-    "player": "pikapou",
-    "killedByMeTotals": 1,
-    "killedByMeGunTotals": 1,
-    "killedMeTotals": 1,
-    "killedMeGunTotals": 1,
-    "kdr": 1,
-    "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
     "player": "PrZ",
     "killedMeTotals": 3,
     "killedMeGunTotals": 2,
@@ -705,18 +633,6 @@
     "killedByMeKnifeTotals": 1,
     "killedMeZeusTotals": 1,
     "kdr": 1.33,
-    "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "R",
-    "killedMeTotals": 6,
-    "killedMeGunTotals": 6,
-    "killedByMeTotals": 4,
-    "killedByMeGunTotals": 4,
-    "kdr": 0.67,
-    "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -751,20 +667,20 @@
     "killedMeGunTotals": 10,
     "kdr": 0.2,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
-    "player": "RodrigoMPB",
-    "killedByMeTotals": 5,
-    "killedByMeGunTotals": 4,
-    "killedMeTotals": 2,
-    "killedMeGunTotals": 2,
+    "player": "Rokko",
+    "killedByMeTotals": 4,
+    "killedByMeGunTotals": 3,
     "killedByMeZeusTotals": 1,
-    "kdr": 2.5,
+    "killedMeTotals": 2,
+    "killedMeGunTotals": 1,
+    "killedMeZeusTotals": 1,
+    "kdr": 2,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -775,8 +691,8 @@
     "killedMeTotals": 3,
     "killedMeGunTotals": 3,
     "kdr": 0.67,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -787,8 +703,8 @@
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -799,8 +715,8 @@
     "killedMeGunTotals": 2,
     "kdr": 1,
     "killedByMeGunTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -811,21 +727,9 @@
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "SkYy",
-    "killedMeTotals": 14,
-    "killedMeGunTotals": 13,
-    "killedByMeTotals": 8,
-    "killedByMeKnifeTotals": 3,
-    "killedMeKnifeTotals": 1,
-    "killedByMeGunTotals": 4,
-    "killedByMeZeusTotals": 1,
-    "kdr": 0.57,
-    "killedMeZeusTotals": 0
   },
   {
     "player": "solid",
@@ -835,8 +739,8 @@
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -844,11 +748,11 @@
     "killedByMeTotals": 2,
     "killedByMeKnifeTotals": 2,
     "kdr": 0,
+    "killedByMeGunTotals": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeGunTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -883,8 +787,8 @@
     "killedMeGunTotals": 7,
     "kdr": 0.43,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -895,8 +799,8 @@
     "killedMeGunTotals": 1,
     "kdr": 1,
     "killedByMeGunTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -907,8 +811,20 @@
     "killedMeGunTotals": 2,
     "kdr": 1,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
+    "killedMeKnifeTotals": 0
+  },
+  {
+    "player": "Titio calibre .50",
+    "killedByMeTotals": 2,
+    "killedByMeGunTotals": 2,
+    "kdr": 0,
+    "killedMeTotals": 0,
+    "killedMeGunTotals": 0,
+    "killedByMeKnifeTotals": 0,
+    "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -916,9 +832,9 @@
     "killedByMeTotals": 1,
     "killedByMeZeusTotals": 1,
     "kdr": 0,
+    "killedByMeGunTotals": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
@@ -931,8 +847,8 @@
     "killedByMeKnifeTotals": 1,
     "kdr": 0.25,
     "killedByMeGunTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -943,8 +859,8 @@
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -955,20 +871,8 @@
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
     "killedByMeKnifeTotals": 0,
+    "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
-    "killedByMeZeusTotals": 0,
-    "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "Vingador SJRP ;x",
-    "killedMeTotals": 5,
-    "killedMeGunTotals": 4,
-    "killedByMeTotals": 2,
-    "killedByMeGunTotals": 2,
-    "killedMeZeusTotals": 1,
-    "kdr": 0.4,
-    "killedByMeKnifeTotals": 0,
-    "killedByMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -979,8 +883,8 @@
     "killedByMeGunTotals": 1,
     "kdr": 1,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -991,21 +895,9 @@
     "killedMeGunTotals": 2,
     "kdr": 0.5,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
-  },
-  {
-    "player": "zanm9",
-    "killedMeTotals": 10,
-    "killedMeGunTotals": 8,
-    "killedByMeTotals": 3,
-    "killedByMeGunTotals": 3,
-    "killedMeKnifeTotals": 1,
-    "killedMeZeusTotals": 1,
-    "kdr": 0.3,
-    "killedByMeKnifeTotals": 0,
-    "killedByMeZeusTotals": 0
   },
   {
     "player": "忍者",
@@ -1015,8 +907,8 @@
     "killedByMeGunTotals": 10,
     "kdr": 0.67,
     "killedByMeKnifeTotals": 0,
-    "killedMeZeusTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
   }
 ]
