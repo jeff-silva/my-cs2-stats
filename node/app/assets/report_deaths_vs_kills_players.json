@@ -6,9 +6,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -18,9 +18,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.5,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -42,9 +42,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -54,9 +54,9 @@
     "kdr": 0,
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -66,9 +66,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -102,9 +102,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -114,9 +114,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -127,8 +127,8 @@
     "killedByMeGunTotals": 3,
     "killedByMeZeusTotals": 1,
     "kdr": 2,
-    "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -148,9 +148,9 @@
     "killedByMeTotals": 1,
     "killedByMeKnifeTotals": 1,
     "kdr": 0,
-    "killedByMeGunTotals": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
+    "killedByMeGunTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
@@ -163,8 +163,8 @@
     "killedMeZeusTotals": 1,
     "killedMeGunTotals": 3,
     "kdr": 1,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -174,9 +174,9 @@
     "killedMeTotals": 3,
     "killedMeGunTotals": 3,
     "kdr": 0.67,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -187,8 +187,8 @@
     "killedByMeGunTotals": 2,
     "killedMeGunTotals": 9,
     "kdr": 0.17,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -210,9 +210,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -234,9 +234,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.2,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -246,9 +246,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -258,9 +258,9 @@
     "kdr": 0,
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -270,9 +270,9 @@
     "killedMeTotals": 5,
     "killedMeGunTotals": 5,
     "kdr": 0.2,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -280,12 +280,12 @@
     "killedMeTotals": 1,
     "killedMeKnifeTotals": 1,
     "kdr": 0,
+    "killedMeGunTotals": 0,
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
-    "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
-    "killedMeZeusTotals": 0
+    "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0
   },
   {
     "player": "evertoncri2012",
@@ -318,9 +318,9 @@
     "killedMeTotals": 1,
     "killedMeGunTotals": 1,
     "kdr": 2,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -354,9 +354,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -378,9 +378,9 @@
     "killedMeTotals": 1,
     "killedMeGunTotals": 1,
     "kdr": 5,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -390,9 +390,9 @@
     "killedMeTotals": 2,
     "killedMeGunTotals": 2,
     "kdr": 1,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -426,9 +426,9 @@
     "killedByMeTotals": 2,
     "killedByMeGunTotals": 2,
     "kdr": 1,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -438,9 +438,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.5,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -451,8 +451,8 @@
     "killedByMeZeusTotals": 2,
     "killedByMeGunTotals": 2,
     "kdr": 0.31,
-    "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -462,9 +462,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -475,8 +475,8 @@
     "killedByMeZeusTotals": 1,
     "kdr": 0.2,
     "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -486,9 +486,9 @@
     "killedByMeTotals": 2,
     "killedByMeGunTotals": 2,
     "kdr": 0.67,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -510,9 +510,9 @@
     "killedByMeTotals": 2,
     "killedByMeGunTotals": 2,
     "kdr": 0.33,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -522,9 +522,9 @@
     "killedByMeTotals": 2,
     "killedByMeGunTotals": 2,
     "kdr": 2,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -534,9 +534,9 @@
     "killedMeTotals": 3,
     "killedMeGunTotals": 3,
     "kdr": 0.67,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -547,8 +547,8 @@
     "killedByMeGunTotals": 2,
     "killedMeZeusTotals": 1,
     "kdr": 0.67,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -558,9 +558,9 @@
     "killedMeTotals": 4,
     "killedMeGunTotals": 4,
     "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -582,9 +582,9 @@
     "killedMeTotals": 1,
     "killedMeGunTotals": 1,
     "kdr": 1,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -595,8 +595,8 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -655,8 +655,8 @@
     "killedByMeGunTotals": 5,
     "killedByMeZeusTotals": 1,
     "kdr": 0.6,
-    "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -666,9 +666,9 @@
     "killedMeTotals": 10,
     "killedMeGunTotals": 10,
     "kdr": 0.2,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -702,9 +702,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -726,9 +726,9 @@
     "kdr": 0,
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -738,9 +738,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -748,9 +748,9 @@
     "killedByMeTotals": 2,
     "killedByMeKnifeTotals": 2,
     "kdr": 0,
-    "killedByMeGunTotals": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
+    "killedByMeGunTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
     "killedMeKnifeTotals": 0
@@ -763,8 +763,8 @@
     "killedByMeGunTotals": 9,
     "killedByMeZeusTotals": 2,
     "kdr": 0.55,
-    "killedByMeKnifeTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -786,9 +786,9 @@
     "killedMeTotals": 7,
     "killedMeGunTotals": 7,
     "kdr": 0.43,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -810,9 +810,9 @@
     "killedMeTotals": 2,
     "killedMeGunTotals": 2,
     "kdr": 1,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -822,9 +822,9 @@
     "kdr": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -832,11 +832,11 @@
     "killedByMeTotals": 1,
     "killedByMeZeusTotals": 1,
     "kdr": 0,
-    "killedByMeGunTotals": 0,
     "killedMeTotals": 0,
     "killedMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
+    "killedByMeGunTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -858,9 +858,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 0.25,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -870,9 +870,9 @@
     "kdr": 0,
     "killedByMeTotals": 0,
     "killedByMeGunTotals": 0,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -882,9 +882,9 @@
     "killedByMeTotals": 1,
     "killedByMeGunTotals": 1,
     "kdr": 1,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -894,9 +894,9 @@
     "killedMeTotals": 2,
     "killedMeGunTotals": 2,
     "kdr": 0.5,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   },
   {
@@ -906,9 +906,9 @@
     "killedByMeTotals": 10,
     "killedByMeGunTotals": 10,
     "kdr": 0.67,
-    "killedByMeKnifeTotals": 0,
     "killedByMeZeusTotals": 0,
     "killedMeZeusTotals": 0,
+    "killedByMeKnifeTotals": 0,
     "killedMeKnifeTotals": 0
   }
 ]
