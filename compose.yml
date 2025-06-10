@@ -4,4 +4,6 @@ services:
     volumes:
       - ./node/app:/app
       - "${TIMELINES_DIR}:/app/volumes/timelines"
-    env_file: .env
+    environment:
+      STEAM_API_KEY: ${STEAM_API_KEY}
+      GIT_TOKEN: ${GIT_TOKEN}
